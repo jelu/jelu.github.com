@@ -1,0 +1,104 @@
+Package: libip-country-perl
+Version: 2.28-2~jessie+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 676
+Depends: perl, libgeography-countries-perl
+Homepage: https://github.com/jelu/IP-Country
+Priority: optional
+Section: perl
+Filename: pool/main/libi/libip-country-perl/libip-country-perl_2.28-2~jessie+1_all.deb
+Size: 278864
+SHA256: 0d989f9332a42b7f71bf8cd5d081f6c555dbefb5c8e5e69090d6d90c6d6143bc
+SHA1: 878f2836936a4767346f4eb1edb208f731145780
+MD5sum: e3143b7bb54c9127060f067277501b65
+Description: fast lookup of country codes from IP addresses
+ fast lookup of country codes from IP addresses
+
+Package: libnet-ip-xs-perl
+Version: 0.16-5~jessie+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 233
+Depends: perl (>= 5.20.2-3+deb8u1), perlapi-5.20.2, libtie-simple-perl, libip-country-perl
+Homepage: https://github.com/jelu/p5-Net-IP-XS
+Priority: optional
+Section: perl
+Filename: pool/main/libn/libnet-ip-xs-perl/libnet-ip-xs-perl_0.16-5~jessie+1_i386.deb
+Size: 52426
+SHA256: ff0c0567b4dba789209ad150e116a6457b7e8f0c0714a47f20bbfdec4a29b05e
+SHA1: 23976ead598e7e4417717a2b65db2ab32a15eb3b
+MD5sum: 62134150fe2c0ab810251cb317871d62
+Description: IPv4/IPv6 address library
+ IPv4/IPv6 address library
+
+Package: libnet-ldns-perl
+Version: 0.75-9~jessie+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 847
+Depends: perl (>= 5.20.2-3+deb8u1), perlapi-5.20.2, libssl1.0.2 | libssl1.0.0
+Homepage: https://github.com/jelu/net-ldns
+Priority: optional
+Section: perl
+Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl_0.75-9~jessie+1_i386.deb
+Size: 273834
+SHA256: 7beb7ba5a069c1c8fccb8e55d95339c8228c295a166ef53b888ab8dfb865c7e6
+SHA1: 6678417f637b5b16e389236a60c540e39c23c452
+MD5sum: 82f52f04887c7e0d3de8a0135a847aff
+Description: DNS-talking module based on the ldns C library
+ DNS-talking module based on the ldns C library
+
+Package: libzonemaster-cli-perl
+Source: zonemaster-cli
+Version: 1.0.3-3~jessie+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 144
+Depends: perl, libzonemaster-perl, libtext-reflow-perl, libmoosex-getopt-perl, libgetopt-long-descriptive-perl, libintl-perl, libnet-ldns-perl (>= 0.65), libjson-xs-perl
+Homepage: https://github.com/jelu/zonemaster-cli
+Priority: optional
+Section: perl
+Filename: pool/main/z/zonemaster-cli/libzonemaster-cli-perl_1.0.3-3~jessie+1_all.deb
+Size: 14208
+SHA256: 2a14585165d42d4dc959de723ed56e1bc557f6a8586608bd92eca6e5ab494567
+SHA1: b92c0740e3b43fdeb4f1f17ccb6acdd8fda3f91a
+MD5sum: fda0c565670eb277dd672e5144d31289
+Description: run Zonemaster tests from the command line
+ run Zonemaster tests from the command line
+
+Package: libzonemaster-perl
+Version: 1.0.11-6~jessie+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 664
+Depends: perl, libnet-ldns-perl, libio-socket-inet6-perl, libmoose-perl, libmodule-find-perl, libjson-xs-perl, libfile-sharedir-perl, libfile-slurp-perl, libnet-ip-xs-perl, liblist-moreutils-perl, libmail-rfc822-address-perl, libhash-merge-perl, libreadonly-perl, libintl-perl, libjson-perl
+Recommends: libreadonly-xs-perl
+Homepage: https://github.com/jelu/zonemaster-engine
+Priority: optional
+Section: perl
+Filename: pool/main/libz/libzonemaster-perl/libzonemaster-perl_1.0.11-6~jessie+1_all.deb
+Size: 151240
+SHA256: ca41222cc4b19d39ba5694bbd7b680f1b24e1fc86761eb965ca69786c7ea7ca5
+SHA1: 972a4074df33c6dba4762242de24eaecd191a3fc
+MD5sum: 0d806a50a967495b1f5b0bae486665e3
+Description: A tool to check the quality of a DNS zone
+ A tool to check the quality of a DNS zone
+
+Package: zonemaster-cli
+Version: 1.0.3-3~jessie+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 50
+Depends: perl, libzonemaster-cli-perl
+Homepage: https://github.com/jelu/zonemaster-cli
+Priority: optional
+Section: perl
+Filename: pool/main/z/zonemaster-cli/zonemaster-cli_1.0.3-3~jessie+1_all.deb
+Size: 10098
+SHA256: f73f0ff1e022ed3efaa7afdfb2022e3736afeae17478198f684be30126333e9d
+SHA1: 63155fa34450b7cc0659c182977b37c27ff6da4e
+MD5sum: c09eb813adb0869afca8ec8009ac55dc
+Description: run Zonemaster tests from the command line
+ run Zonemaster tests from the command line
+

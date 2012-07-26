@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.io/p5-crypt-pkcs11/debian
+Label: p5-crypt-pkcs11 sid apt repository
+Architecture: amd64
+Description: Debian package repository for p5-Crypt-PKCS11

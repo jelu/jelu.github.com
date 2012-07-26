@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: http://jelu.github.com/validns/debian
+Label: validns sid apt repository
+Codename: sid
+Date: Mon, 08 Oct 2012 08:29:42 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for validns
+MD5Sum:
+ 1b8983af106efac5e1e9b1e4506d7889 718 main/binary-i386/Packages
+ a93ec4167370afdd0e6e3f1dc04dbab2 481 main/binary-i386/Packages.gz
+ 6ae2013d112c6dd604afcad7135a87d5 166 main/binary-i386/Release
+ 44bbf2f6cb91654264b9e094793b21b7 1349 main/binary-amd64/Packages
+ 3022a2099200b02aa368f7465cbd52d1 754 main/binary-amd64/Packages.gz
+ 624c227d1df036fbece6ec14c8fd5ebd 167 main/binary-amd64/Release
+ 1635b98731dcfb1adaaec4a36730ff7a 1995 main/source/Sources
+ 0e0bbdf7c0bcc1632543c77279b8e956 869 main/source/Sources.gz
+ 72e967945226ae5e2320f932672d4f1e 168 main/source/Release
+SHA1:
+ e0230ce1a0f7a4b5a88738edb91d73d986e4af86 718 main/binary-i386/Packages
+ 3537646088db7d7e7f4b170cade8c3e9b2aa8133 481 main/binary-i386/Packages.gz
+ 4ea76c0c0140e53458ab7d17c0ffd9459ca2b3f8 166 main/binary-i386/Release
+ 08fa9cd4a15275361e083a25583a8967512489f6 1349 main/binary-amd64/Packages
+ d6fc6f08507cd2108313604b287c51fb129ce0a3 754 main/binary-amd64/Packages.gz
+ 30af961cffe58781ab7fa454d9c81eef7234334b 167 main/binary-amd64/Release
+ b44dd9099480378c99d1a39d3ca34d11fc37f0e7 1995 main/source/Sources
+ 4af4ce310f334e019af14495717d02060e829bb1 869 main/source/Sources.gz
+ 591411edfc4f327aaecaa8acb3b7f63ddb9cbef9 168 main/source/Release
+SHA256:
+ ef334251db153e9cb1f4677adb09554eb349eba756a29c6fd0daca705431b21e 718 main/binary-i386/Packages
+ 3b8b47ad51a3068f45d4e709f1da7c19be724fd83540d5781b3364579095e1c9 481 main/binary-i386/Packages.gz
+ 84b668dd3b5d0287c22bfb63f33cf602e77eb1580cc98a41f74a212e5d4be237 166 main/binary-i386/Release
+ 632511d07a99537ef63222b2f3ae086d6488e1c0b709ed4356bfa6ab338fdcfc 1349 main/binary-amd64/Packages
+ 53a107f7415ae713b5268d1467056eb621d9902f77c3f30767737b20ab6d1308 754 main/binary-amd64/Packages.gz
+ 8fa8892bd6201cccae46307a4fb4dc61ea780df97bbc4d3083d195edef4c80b7 167 main/binary-amd64/Release
+ 35bb923574ba1304515907fa54d5ee8b04d4bd5b77ce13fa8562f8cb9ba612ff 1995 main/source/Sources
+ 3cedb0cf44827247e96e36f123f17e24b7dab0e02cae68e5f540cf52cbd01e30 869 main/source/Sources.gz
+ c6d2c83138b8131c955c4a14ed1166b50335339dfb495098489a7a3e752fdc42 168 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQEcBAEBAgAGBQJQco72AAoJEOF0fHqKQzO7QIEH/02Zod3YL0Y3PIpYU9frS73I
+YogSW2GVbKye717LuFUWM/bQe9ga+QHktCkgv4FHU95QKgcMocV2MtgBvvkAp1Ue
+JIfd97sWnSSMAGITZc/1ZHERFBnWLJr7Ehq9ZJRHNTwwcmk14YDpr6ZYm3VI3ExH
+1oFyCXPq+t7fuPg/j2jF9LId6MOnCxMRIcD82+XFs2Sudhzsqq0ZXh9kphfmIyrP
+dJeaZgN0tnJ7eY1xuLbIrNoYnAlKgm954hNEOYga0k1WPssUHv5Kk5zZEdBR0vvR
+k07DFE3cOzLe5QYEQCIHttz5lUqqLx0+wpv+i3ESBLpo9KEi9i3UnduscLKLLMY=
+=0t04
+-----END PGP SIGNATURE-----

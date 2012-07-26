@@ -1,0 +1,25 @@
+var result_8h =
+[
+    [ "libdbo_result_list_next_t", "group__libdbo__result.html#ga6076e3919d7fbb2bb856206e248ba612", null ],
+    [ "libdbo_result_list_t", "group__libdbo__result__list.html#ga1af44a67478c648294e7b570a7816acc", null ],
+    [ "libdbo_result_t", "group__libdbo__result.html#ga46c01b4f591b633ce17207a5129aa3e1", null ],
+    [ "libdbo_result_backend_meta_data_list", "group__libdbo__result.html#ga4b4ae1e05d52b3273e232e5d76811fea", null ],
+    [ "libdbo_result_copy", "group__libdbo__result.html#ga5b999501360dd244e95a8dbfc0217852", null ],
+    [ "libdbo_result_free", "group__libdbo__result.html#ga6462221f9cf03adda4ef867e9748d220", null ],
+    [ "libdbo_result_list_add", "group__libdbo__result__list.html#gac32917e7140798f8236223c1b4c9be3b", null ],
+    [ "libdbo_result_list_begin", "group__libdbo__result__list.html#gaf16af7a7062c679d2431b6b1e10ee889", null ],
+    [ "libdbo_result_list_copy", "group__libdbo__result__list.html#gae8e6fb4cf6419c493c568ac40ef4cbb7", null ],
+    [ "libdbo_result_list_fetch_all", "group__libdbo__result__list.html#gae9ca6cf5ef53fef5c79b12032f2435a2", null ],
+    [ "libdbo_result_list_free", "group__libdbo__result__list.html#ga19dace3f3194e89f7001edf867489dbb", null ],
+    [ "libdbo_result_list_new", "group__libdbo__result__list.html#ga26e1bafa150ebed166590b0c869bd1c3", null ],
+    [ "libdbo_result_list_new_copy", "group__libdbo__result__list.html#ga9446c9b1f0f9e0830e7a2acc140c99f1", null ],
+    [ "libdbo_result_list_next", "group__libdbo__result__list.html#ga962c76801b55b087767d7bdf76dd4317", null ],
+    [ "libdbo_result_list_set_next", "group__libdbo__result__list.html#ga54cf7c941ad64e8de36ffe690aad3c5f", null ],
+    [ "libdbo_result_list_size", "group__libdbo__result__list.html#gae1279bc0e781f70c47d143f7e1871a57", null ],
+    [ "libdbo_result_new", "group__libdbo__result.html#ga47460746d4d3a03a109128a754f0ccbc", null ],
+    [ "libdbo_result_new_copy", "group__libdbo__result.html#gadbeb4949a0c23e17d47305026b688760", null ],
+    [ "libdbo_result_not_empty", "group__libdbo__result.html#gaafe0967890e900300b660792da495828", null ],
+    [ "libdbo_result_set_backend_meta_data_list", "group__libdbo__result.html#gaab915c6543cfe8414f99b800b0bc49da", null ],
+    [ "libdbo_result_set_value_set", "group__libdbo__result.html#ga910d101512e83124f45f931327156b03", null ],
+    [ "libdbo_result_value_set", "group__libdbo__result.html#ga0f67e67a49b2c5ac525cd1c48a75b3bf", null ]
+];

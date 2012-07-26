@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://jelu.github.com/danish/debian
+Label: danish wheezy apt repository
+Codename: wheezy
+Date: Thu, 19 Feb 2015 09:21:56 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for danish
+MD5Sum:
+ 6d018992bc68e0cdeda3b559461a966c 1133 main/binary-i386/Packages
+ b2d3a35b09a0874a800588224d7260aa 671 main/binary-i386/Packages.gz
+ 5398911b76745f697340e571f1b4758e 167 main/binary-i386/Release
+ 584acec5e287b9d3cef98117bf15d20b 1137 main/binary-amd64/Packages
+ 0bfae4bc1485ddd62e34c036115fda75 673 main/binary-amd64/Packages.gz
+ f7e6768f471aa49c072ddb826220872d 168 main/binary-amd64/Release
+ 3a1bf97f0d82cba799c7d2b0247b3848 986 main/source/Sources
+ 6046a9346dda99692ddd84abdabbdb98 545 main/source/Sources.gz
+ b06d68a51124ce60c1fa1b7db23b9e2f 169 main/source/Release
+SHA1:
+ 176fee806ee21f0efe0109502e8871b4a585da57 1133 main/binary-i386/Packages
+ d4222de78b4e0857db7a195b4f52d3f5c028c4c2 671 main/binary-i386/Packages.gz
+ 51ef15fa52e74ce055c53f9a65de6853363ce0a8 167 main/binary-i386/Release
+ 3dbc000b1205777a0fb3868713baedbc6ffc9b83 1137 main/binary-amd64/Packages
+ 0a82882b99ce35deba27b139bef86ada4edbace5 673 main/binary-amd64/Packages.gz
+ 1c7ac4e209e51649fb5c7f572b9cd9a24fe2135d 168 main/binary-amd64/Release
+ 18b88b5418b798dcca456cc8771cd070b0b9cc6d 986 main/source/Sources
+ e606f2d4e1f2e1d37dbe93c1743fe5486b11a74d 545 main/source/Sources.gz
+ 354232ec9428e0a15869f06ffaa13e5d66cf6d7c 169 main/source/Release
+SHA256:
+ 6659f9928429d1596e1e15a9dffa606a5aaec41eacf00e1f404c29bca4c2e27d 1133 main/binary-i386/Packages
+ f22c97f4d30c1d53643a627fc8ed0993fdecece95b2750b5469e84f9436b5800 671 main/binary-i386/Packages.gz
+ bd6e2b1dde95d502ed5420332ea304c564fb1994f8702c9135af207465067019 167 main/binary-i386/Release
+ 8af769779f654a3ef40bd459ac373573c5932348232228342cf65edcf33a602c 1137 main/binary-amd64/Packages
+ 9678ffe2bc797743fe2448f784321d17f55268d3036ab8cb548c160870c4fb6e 673 main/binary-amd64/Packages.gz
+ 1b501c9812f39762c4905018db61f47251839898fcc6435ec2548553a41972bd 168 main/binary-amd64/Release
+ c1d07227949f346220f59ee0e9c78f653cde6dc258e6b1a45166414a904e2f7a 986 main/source/Sources
+ 1d5366a897e2a06e5f8491813827b7e49ba7952c9d853779533ec8c333c9808b 545 main/source/Sources.gz
+ d0dcd0c06a55ab5dbf845f34d60e1b5524f8330ecb0327c857a13c5b1a0f8900 169 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQJ8BAEBCgBmBQJU5as1XxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrF1C8P/3CWrYHSYEsFVSeQfuOipKV1
+5uhBhMfdb+2frfcGWNad0HlvRFy0+sHFkFpghX3oe2X4+AFApyPbZD3lRYPpHnPB
+JQxcj/sd668eKbHfcsfaOjZqs1SfhjY3QHoFKYc1YfmDXjybuoVNOXR4d62JQ0Nv
+PK4ZkaSg/PTM8C9oIvPZUyhrAtOcJ3nfYjnIiZ1S4JzZFBSHzGdFb2msUYtwVeXN
+sX+l13H2A9PAh2w1mexALDqfWYkrdFmMghBhuNoRM7ZbrXGKWLO4f6JHVRX8SJxN
+S5Q/dbEPJfyMOn7oQTPxPJmVqjlekWO7occN4XP3WNTVzmgetipZmEackz84bdrD
+HdSlSl+F2CZ5OWE9IyaZ+nwvI3pWNeVXf5E5EUUbycDv4iLJaKI96m/tNmFG4bp9
+54F34py5az9qHV+IrWVnboWAbL8xjRkzJEHYNiuWyyxUpowusJgU8fkp09nqULkA
+45ZURCoWBQxPA1RWFCWtNkLQfCyqRo1hGf6X9tGsmbkEWc5gOziP3qg544bMj9Qc
+8L8lIVqOXkzVEa3yvDm5pWN/HkMF+UambmgTxCv9PU3eyzmi6ALrFq/KtAW33mu6
+3Bc5Uf+4yfBRvzNk9DV/md+R7F9hyUbeCOKJdM27qCLDFhsjBCCHwq7ijLxw4TiY
+DXcaQqgIfZ3L3PofiRyD
+=pCEQ
+-----END PGP SIGNATURE-----

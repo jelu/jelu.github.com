@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: http://jelu.github.io/zonemaster/debian
+Label: zonemaster stretch apt repository
+Codename: stretch
+Date: Tue, 12 Jan 2016 14:52:12 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Zonemaster
+MD5Sum:
+ 00b8784dc662d6a799a21e3d00e751db 5684 main/binary-i386/Packages
+ 76446d7b5d32a916a245fa09fbf779f8 1847 main/binary-i386/Packages.gz
+ 583d6a7b44d801b5d56f6b5ba68cc962 178 main/binary-i386/Release
+ d7407357bbf2ced03a32f9a4d9582208 5692 main/binary-amd64/Packages
+ d330c8487a3d56e41126b80417240dad 1842 main/binary-amd64/Packages.gz
+ b4d84845ff6b95b2a85c7cf12542696a 179 main/binary-amd64/Release
+ 33371da7bbaadf9ebe02f7d065a3c3d9 5950 main/source/Sources
+ 04391e2a76bbc8821848bdaaf2065caf 1831 main/source/Sources.gz
+ b7ee9d036899cd61f24978c2373ee741 180 main/source/Release
+SHA1:
+ 40104380da81b54a4213f99edc48886bdae11403 5684 main/binary-i386/Packages
+ f16cc58ecc41478fb639bb9ab22f5e475e0027fb 1847 main/binary-i386/Packages.gz
+ ad6dff1e33a23015364737bc86104aacb0d3a6d5 178 main/binary-i386/Release
+ 28a8b01edbda7e865b29066dc6ee42ae724f4df4 5692 main/binary-amd64/Packages
+ 46b30fec21dea5870061249adf8c17d0086543cc 1842 main/binary-amd64/Packages.gz
+ c9068470a8a84204c5689d846cddaa4a69707abb 179 main/binary-amd64/Release
+ 50bee4b91007c602293e81ecc47fa9e2ef9a7de7 5950 main/source/Sources
+ 5d0794ef1a37441c6c7add072a45a169accade16 1831 main/source/Sources.gz
+ 58ebfc191b06f259e846291db4fa8229d2cfdc75 180 main/source/Release
+SHA256:
+ bdee3b137b203d08c6bf134e33f18af8fa299f5faa9d6ce330ca07a684ea3554 5684 main/binary-i386/Packages
+ 60c9c2636d1235cdafb395761ce747a810757b2a6ead9c3d5dcd2159ec5d9add 1847 main/binary-i386/Packages.gz
+ 91a5f4ce928819fc468f1b5d0b64bdcd08d18dc94c490d64fd97450ccb0c506a 178 main/binary-i386/Release
+ 8f16c3d197789ad37a834ee291d6c32191ff5735dbf6ba2fb903d8625bce8e33 5692 main/binary-amd64/Packages
+ eb639aef3ed52a58b7027a9622ed0671b7253cfd69a8282b63b050ba929639ea 1842 main/binary-amd64/Packages.gz
+ 526ee5e0fa1ace51743b179582b2df89bdab6cc2d383e7927f56e185bd9fb5ed 179 main/binary-amd64/Release
+ 0ab897c245056c320e67ab44e400fea24f8e9cbf82266f68b6c347979bd5f60d 5950 main/source/Sources
+ 908d5e83164162902581752577a5919e622d4e761281627ddfe063c3270c396e 1831 main/source/Sources.gz
+ 214ecdd608c9af73b1ebee31fead6d6a9d75f864ea02238038688304018996c4 180 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQJ8BAEBCgBmBQJWlRMcXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFofYQALrSCUpTuLvcHddd2r+w8pHW
++bbpryspiVRyuNoN05xivYR9BtP0X9u4ccec7bb090aDGfed5y6PvQPbESKIlHQx
+ZQto0u98KfPn+ryl5RzBAL0Oof8iXq/dJa42XvclQ4Htgy2jYI14BVTy2DtUaz9M
+ph0Af57DAP5RqV3vbEISQeRXrqYQfn5urCWBIWUtT30/MJPnJ3/hWn9ZiOCABl0g
+F9TPZNtgyRoN4dzEoc+5h+PXN9Lqw5CnsIwRNAk7MvGCs9epk5wsDcXc/iZZOt8y
+/KDisL4Cf4KQ1rfuj415dndUkdzh8XlSOrL/Y41ww/483iyEz0JRYDHwzq9ISbPU
+lYa9ScU+/JSoO2DW74cbYde212R7+aWDXlBqkFfkiZiBfTZUTnUvVhwwYx+qDrT9
++7zN/+GSRtMJO8A0s4Mi8Yto4OIix1+DFKxak4rTuixQ38GTcx0QWuCdPdIFjQG/
+msm1TPISby0YEyaJ8GMDbjyuDstmvw+MpQvwfljugvHSt2RBgZoBRCXEthuX4tsL
+exdBXeEUKvzKeSeAmH3iPC3/tDhVY/DysyfHwVKhUFP1CxQZQukOmFeUsAJKkyEv
+AW5iDFc9o1FZAbtEOyIZ16HzuXu2cWzG9VF8SRrx6ymiVaGWbUV1Wfa3Uy58daK1
+Qz1+UGSM0C4aNgWc4ajk
+=V0vY
+-----END PGP SIGNATURE-----

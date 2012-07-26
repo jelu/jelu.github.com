@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.io/validns/debian
+Label: validns sid apt repository
+Architecture: amd64
+Description: Debian package repository for validns

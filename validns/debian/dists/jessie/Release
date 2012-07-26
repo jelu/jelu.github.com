@@ -1,0 +1,37 @@
+Origin: http://jelu.github.io/validns/debian
+Label: validns jessie apt repository
+Codename: jessie
+Date: Thu, 19 Feb 2015 09:54:46 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for validns
+MD5Sum:
+ 5c9e8f9cab617634e1d401f20022dcb6 1630 main/binary-i386/Packages
+ cfaacf2478ffe9d9fe8ef24b71983ee4 957 main/binary-i386/Packages.gz
+ e18ccd3bca17349af129027f7fa65cfc 168 main/binary-i386/Release
+ 5dc4aa610a121df9f2472d2efaf4c130 1628 main/binary-amd64/Packages
+ 73c8cd9b4ce15e1e261082dd96cea415 956 main/binary-amd64/Packages.gz
+ 58beb09f92dfb1af711e314479d05cb0 169 main/binary-amd64/Release
+ ee4b1b6493df06f535271caa2e51bc29 1047 main/source/Sources
+ 4a67143b2b23a75b75911f3784ff0dd8 574 main/source/Sources.gz
+ 6a1c737f7943d7f088244c12d784ae4b 170 main/source/Release
+SHA1:
+ 60a0cfae15a652b7d6abeda9161f14bb5bc0d8c9 1630 main/binary-i386/Packages
+ 2ebab8291ce1ae332220061a15eaaa2d4fcb8324 957 main/binary-i386/Packages.gz
+ b29f1dbb879b7911a7b912e159f27b12cf5f4870 168 main/binary-i386/Release
+ edafd0a3b1979278e3708cfd195da823bb91c6e8 1628 main/binary-amd64/Packages
+ 9c1a7a6cece1aa470f4c9957fb904442adc04d47 956 main/binary-amd64/Packages.gz
+ 537df455eb2ed2fc764dc9f3551d5561f5317609 169 main/binary-amd64/Release
+ 4f8811abe778e8d162162566d8c56b5e8a6ce32c 1047 main/source/Sources
+ 1f95b76fa313e95406f3bb5b73b51ae4098e8ee5 574 main/source/Sources.gz
+ eadac0d4f0abb603c7b64f52d0d534ed0c5594b6 170 main/source/Release
+SHA256:
+ 024c51a9608d11bcd187189cad3400908ff1ee7549198764f8447295aa7a4754 1630 main/binary-i386/Packages
+ ee4bb23c45cbe6862216a43e73512406c5bf5e6b9156303479e047212a6c9143 957 main/binary-i386/Packages.gz
+ 86569fd56667a497e85762ae06c8b4f0b72d1a2df1ced9f9cfc7108721528e30 168 main/binary-i386/Release
+ b9f961a04ff3dd086f4493d39d0c1f4a0c18070fa7b7d805842b8795f65d179e 1628 main/binary-amd64/Packages
+ 2fef59917c9a5c0698a6a78542ec0f6f6d3f25ed444099f85e50189017033b41 956 main/binary-amd64/Packages.gz
+ b1af10aa4ad8488439cf36819ad8399cade6a80514746e025413d3fce9d6b866 169 main/binary-amd64/Release
+ f8dd31f74187f709cefcc60f273510de40c46ee4e170e7934c003213d3c41964 1047 main/source/Sources
+ b44abf44172e1efe7bbc6bbcddf15fc4c18119f1874b0517e53fc140b395b433 574 main/source/Sources.gz
+ d0f97c2b88e5b35bec106f06db83c2f11024d4b9861eb4b5c0d55ed6834f7896 170 main/source/Release

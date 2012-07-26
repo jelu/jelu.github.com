@@ -1,0 +1,142 @@
+Package: libip-country-perl
+Version: 2.28-2~stretch+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 636
+Depends: perl, libgeography-countries-perl
+Homepage: https://github.com/jelu/IP-Country
+Priority: optional
+Section: perl
+Filename: pool/main/libi/libip-country-perl/libip-country-perl_2.28-2~stretch+1_all.deb
+Size: 273762
+SHA256: b63ef8b6d2ca2c84cb0dc4be9c6ccd573b0373c766cb4804dc51ebd89f12a7ed
+SHA1: a52f22fe6affb3739fdcfe6e6b3f58266c82aa37
+MD5sum: c068c64d7e66e18149d17cb604824874
+Description: fast lookup of country codes from IP addresses
+ fast lookup of country codes from IP addresses
+
+Package: libnet-ip-xs-perl
+Version: 0.16-5~stretch+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 178
+Depends: perl (>= 5.22.1-3), perlapi-5.22.1, libtie-simple-perl, libip-country-perl
+Homepage: https://github.com/jelu/p5-Net-IP-XS
+Priority: optional
+Section: perl
+Filename: pool/main/libn/libnet-ip-xs-perl/libnet-ip-xs-perl_0.16-5~stretch+1_i386.deb
+Size: 51592
+SHA256: 9e4532e31e46beda8baf5f00dc6911017b89719bd1125089e90f5c9081ffd3fc
+SHA1: 6ddc9c8b483225c2b016ae2e49b2148bf44bf839
+MD5sum: 5e64b882e81fa6cec573f2dda50e3c19
+Description: IPv4/IPv6 address library
+ IPv4/IPv6 address library
+
+Package: libnet-ip-xs-perl-dbgsym
+Source: libnet-ip-xs-perl
+Version: 0.16-5~stretch+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 122
+Depends: libnet-ip-xs-perl (= 0.16-5~stretch+1)
+Homepage: https://github.com/jelu/p5-Net-IP-XS
+Priority: extra
+Section: debug
+Filename: pool/main/libn/libnet-ip-xs-perl/libnet-ip-xs-perl-dbgsym_0.16-5~stretch+1_i386.deb
+Size: 106566
+SHA256: f3e4a80426d9687aebbe2ccab710a972dd324481b059bfcbf96aff976b2292e7
+SHA1: 5ca30a80bab2348d717b5b36b83dbc7f87ad5cf4
+MD5sum: aeb516f4f7ddf3f29e69638cfae3149d
+Description: Debug symbols for libnet-ip-xs-perl
+Auto-Built-Package: debug-symbols
+Build-Ids: 44c9affdfef324e0df8bce821561bc12b571f62a
+
+Package: libnet-ldns-perl
+Version: 0.75-9~stretch+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 832
+Depends: perl (>= 5.22.1-3), perlapi-5.22.1, libssl1.0.2 | libssl1.0.0
+Homepage: https://github.com/jelu/net-ldns
+Priority: optional
+Section: perl
+Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl_0.75-9~stretch+1_i386.deb
+Size: 229464
+SHA256: 6b2923cb34d04a2af59bb0d354bd699ee5c32b305bc40cb52197bda729d16a24
+SHA1: b55a620c15ef008ca2b1151d562b77f6e094ffbc
+MD5sum: 0641666844632facd8bf8d819631fb44
+Description: DNS-talking module based on the ldns C library
+ DNS-talking module based on the ldns C library
+
+Package: libnet-ldns-perl-dbgsym
+Source: libnet-ldns-perl
+Version: 0.75-9~stretch+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 441
+Depends: libnet-ldns-perl (= 0.75-9~stretch+1)
+Homepage: https://github.com/jelu/net-ldns
+Priority: extra
+Section: debug
+Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl-dbgsym_0.75-9~stretch+1_i386.deb
+Size: 382284
+SHA256: 2ae380d9958add8c3500e59719badfbf5accdcabf68bc5bce40ba886dd609108
+SHA1: 8b22bf85f2658625c302d5a620122932882c4af5
+MD5sum: ff6ab4e6e9ed1505084509a884bf4ac6
+Description: Debug symbols for libnet-ldns-perl
+Auto-Built-Package: debug-symbols
+Build-Ids: 7ec4a696b2cabfdf58f3c3e5bfa6252308fcb8fe
+
+Package: libzonemaster-cli-perl
+Source: zonemaster-cli
+Version: 1.0.3-3~stretch+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 85
+Depends: perl, libzonemaster-perl, libtext-reflow-perl, libmoosex-getopt-perl, libgetopt-long-descriptive-perl, libintl-perl, libnet-ldns-perl (>= 0.65), libjson-xs-perl
+Homepage: https://github.com/jelu/zonemaster-cli
+Priority: optional
+Section: perl
+Filename: pool/main/z/zonemaster-cli/libzonemaster-cli-perl_1.0.3-3~stretch+1_all.deb
+Size: 13460
+SHA256: 7c59d4c8dfc61b0bfa8e1df66cb50efb971d0b1ee98b1283b3e5fbedae7424af
+SHA1: 6e432e4dd89bb1e1c94eccffe9b88091e45efa9c
+MD5sum: 8215f7544bcc3ee07ed6750af5ca74a5
+Description: run Zonemaster tests from the command line
+ run Zonemaster tests from the command line
+
+Package: libzonemaster-perl
+Version: 1.0.11-6~stretch+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 629
+Depends: perl, libnet-ldns-perl, libio-socket-inet6-perl, libmoose-perl, libmodule-find-perl, libjson-xs-perl, libfile-sharedir-perl, libfile-slurp-perl, libnet-ip-xs-perl, liblist-moreutils-perl, libmail-rfc822-address-perl, libhash-merge-perl, libreadonly-perl, libintl-perl, libjson-perl
+Recommends: libreadonly-xs-perl
+Homepage: https://github.com/jelu/zonemaster-engine
+Priority: optional
+Section: perl
+Filename: pool/main/libz/libzonemaster-perl/libzonemaster-perl_1.0.11-6~stretch+1_all.deb
+Size: 131482
+SHA256: 1470040f2fcf72a35d04f85dee50d77d40d33d58b681c0f29f5cfd65cb0516f9
+SHA1: 0949fd90f61a0ba9cce8184e01c75aeff71a62ac
+MD5sum: 31d0c0d9defee8455e4764f662c8651f
+Description: A tool to check the quality of a DNS zone
+ A tool to check the quality of a DNS zone
+
+Package: zonemaster-cli
+Version: 1.0.3-3~stretch+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 25
+Depends: perl, libzonemaster-cli-perl
+Homepage: https://github.com/jelu/zonemaster-cli
+Priority: optional
+Section: perl
+Filename: pool/main/z/zonemaster-cli/zonemaster-cli_1.0.3-3~stretch+1_all.deb
+Size: 9352
+SHA256: 3de5b575b0a28d99f83366aab667ef0a763a4c34d1b557706a3dd4747895ee6a
+SHA1: 670ead124312e497a193d7226309471198b3de1a
+MD5sum: ccc6ffc31d74501dc831718d48baab4c
+Description: run Zonemaster tests from the command line
+ run Zonemaster tests from the command line
+

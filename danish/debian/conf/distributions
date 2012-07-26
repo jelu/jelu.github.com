@@ -1,0 +1,26 @@
+Origin: http://jelu.github.io/danish/debian
+Label: danish jessie apt repository
+Codename: jessie
+Architectures: i386 amd64 source
+Components: main
+Description: Debian package repository for danish
+SignWith: 4F23A0260F19DAC5
+Pull: jessie
+
+Origin: http://jelu.github.io/danish/debian
+Label: danish wheezy apt repository
+Codename: wheezy
+Architectures: i386 amd64 source
+Components: main
+Description: Debian package repository for danish
+SignWith: 4F23A0260F19DAC5
+Pull: wheezy
+
+Origin: http://jelu.github.io/danish/debian
+Label: danish sid apt repository
+Codename: sid
+Architectures: i386 amd64 source
+Components: main
+Description: Debian package repository for danish
+SignWith: 4F23A0260F19DAC5
+Pull: sid

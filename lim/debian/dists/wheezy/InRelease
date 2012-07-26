@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: http://jelu.github.io/lim/debian
+Label: lim wheezy apt repository
+Codename: wheezy
+Date: Thu, 19 Feb 2015 10:37:59 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Lim
+MD5Sum:
+ 0110ff8535857bc197dabbb36788f765 26612 main/binary-i386/Packages
+ aba9e4f7778a58ac33e9b956de1341f6 5999 main/binary-i386/Packages.gz
+ 2fcb2cb90b7f23934493b943b671651b 156 main/binary-i386/Release
+ 0110ff8535857bc197dabbb36788f765 26612 main/binary-amd64/Packages
+ aba9e4f7778a58ac33e9b956de1341f6 5999 main/binary-amd64/Packages.gz
+ 7a4ebb8664ac8daa9136e5ef7010fb02 157 main/binary-amd64/Release
+ 8349b4585c888bfc1f87e3243011f2dd 11088 main/source/Sources
+ 1d05fd80ff7925c534d8d366f0cca2da 2577 main/source/Sources.gz
+ 662de48c6d49a3b58f3bc2a0495489d3 158 main/source/Release
+SHA1:
+ b1bc01bbd675abee5cf5b07849b0efae87e3f3ac 26612 main/binary-i386/Packages
+ d73d8dd2540019972fbb6fa093923d36b539115f 5999 main/binary-i386/Packages.gz
+ 4ea0bf13ee81d15f7d9c63b471c0c69169712dd2 156 main/binary-i386/Release
+ b1bc01bbd675abee5cf5b07849b0efae87e3f3ac 26612 main/binary-amd64/Packages
+ d73d8dd2540019972fbb6fa093923d36b539115f 5999 main/binary-amd64/Packages.gz
+ f159889c96c6bd42828fda8baa814ea69513ab65 157 main/binary-amd64/Release
+ c35a1dd4cbee579f4ee828a69e3dc5c0ec5bebb0 11088 main/source/Sources
+ 1b4572d56c16843b35eb92fc9a74271bb4604492 2577 main/source/Sources.gz
+ e33c25150feb2c8624d1bec7a8b8a98888e41008 158 main/source/Release
+SHA256:
+ d404bb36cb330e6f296a696d81166a1fcb6d58b8dcb2d0ed35ce86c47994d592 26612 main/binary-i386/Packages
+ 843437e1f177bac882c3907471e797ff4fe5942d35f0c5215e080d381136d0f1 5999 main/binary-i386/Packages.gz
+ e223340e1b05d55174877094a1cb9d3cc45d703daf55cb3660b2c9b3f84fc962 156 main/binary-i386/Release
+ d404bb36cb330e6f296a696d81166a1fcb6d58b8dcb2d0ed35ce86c47994d592 26612 main/binary-amd64/Packages
+ 843437e1f177bac882c3907471e797ff4fe5942d35f0c5215e080d381136d0f1 5999 main/binary-amd64/Packages.gz
+ 5d842d38d827f851cda0c98ca915c2c26c38180be4baf676fba4721c95af5638 157 main/binary-amd64/Release
+ bc750386064a3e63a2666a97439db7895611d42fee1992d5e2bc1af1a0f3b220 11088 main/source/Sources
+ e3974500e7b8a5073ff0f5b26e7d9da0d88426742efa4b4c8c35071d605b9b5e 2577 main/source/Sources.gz
+ 38e4a7eddc2f4b79a60d32e3675c83e7ec77666906f52e6742208feef8d7ff77 158 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQJ8BAEBCgBmBQJU5b0HXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFV/4P/i8cbY7G5kAfje+HuiBqkkhc
+rX/7/FCi8pJbJx2IKnMqdbIecprWNbF4vyr9231GUL7N/VKNeh+6765a3AeLngyh
+beBAzFR1FZUvDCepHdgTwc8UYxe1kMGwnUHU4IRoWrPnlKbYOvTr9MybhY+Hvwdj
+Y/ykiDzaZHiTdpM9qq2sNPdA7DeMMEMMf7ttJOrR5CGVHtCSjPdUpkhjXhy05c67
+23hqlDxl8bNeoEo8eRvfUDbL793V+KdMnnTyUjwso6sxKtb/ZoOL71XMtDSP87EU
+0ZaGQpF2jZwDU8km+x/SUlKq1H4fR6K9mfCyk14sIpdWPXrVMPAYV7GsiFa6obvl
+pzN7HxW+8dNLz1v6nUmF9Z/oOrLi6nJ69La06qenSiaC27wVDAGtG6sBGWPg8jG4
+wN26AFRmRYVJ7ZYsE2gQGQbS8oYo8HzC4rwyVr6QA3p5z85FLjEcphUaq5H5SR/Y
+FWiKgWhIH8UBNP2UlGF8R6/VGSYTPWnEHtcgNZ3LRvi+r4ITXbYHLGwggiCUpVE9
+1uY4mCMNma5c+UVCeGjdnONKWCm4EsU9B0DKqH6J3UritgmG5+09DXz4kEgLnaqO
+6cPJjCkfKi8RIatucvkZoOnOs4Emg3MHMe9vEC4yyU16BQO6muBRkVj+ZB/WScjC
+4JmNB+MKq/kw2OWvDRLb
+=YcH1
+-----END PGP SIGNATURE-----

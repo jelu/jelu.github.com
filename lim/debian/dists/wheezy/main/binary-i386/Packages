@@ -1,0 +1,657 @@
+Package: libanyevent-readline-gnu-perl
+Version: 1.0-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 72
+Depends: perl, libanyevent-perl (>= 5), libcommon-sense-perl (>= 3), libterm-readline-gnu-perl (>= 1.2)
+Homepage: http://search.cpan.org/dist/AnyEvent-ReadLine-Gnu/
+Priority: optional
+Section: perl
+Filename: pool/main/liba/libanyevent-readline-gnu-perl/libanyevent-readline-gnu-perl_1.0-3~wheezy+1_all.deb
+Size: 16256
+SHA256: b17b97fe2f92cbd6e6b95fd8dcb80eadc5b9668449913d5ebffdbbbaacebdbc5
+SHA1: 52c4e0e85c06239d613c3973abf2caeb75f42aac
+MD5sum: 5e40c460c36bd321b836c04889dc0b37
+Description: AnyEvent::ReadLine::Gnu
+ The Term::ReadLine module family is bizarre (and you are encouraged not to
+ look at its sources unless you want to go blind). It does support event-based
+ operations, somehow, but it's hard to figure out.
+ .
+ It also has some utility functions for printing messages asynchronously,
+ something that, again, isn't obvious how to do.
+ .
+ AnyEvent::ReadLine::Gnu has figured it all out for you, once and for all.
+
+Package: liblim-agent-cli-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 51
+Depends: perl, liblim-cli-perl (= 0.19-3~wheezy+1), liblim-agent-client-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-agent-cli-perl_0.19-3~wheezy+1_all.deb
+Size: 6364
+SHA256: 97adfd18d0929b1ba7eb0bde5a4cc46333ff65046ff254bfa6d998721425a57f
+SHA1: 937dcd954238add5c7b31db278a80a3126e75be6
+MD5sum: 239f1fc78b11301003c407890ea97ea6
+Description: CLI perl libraries for lim-agentd
+ CLI perl libraries for controlling lim-agentd via lim-cli.
+
+Package: liblim-agent-client-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 50
+Depends: perl, liblim-agent-common-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-agent-client-perl_0.19-3~wheezy+1_all.deb
+Size: 6030
+SHA256: bda306bd9da6428037f0deb3e834d988d11a7d38d9560c62311fb41ec82ec9f7
+SHA1: 8a1f5f3650b75c214f1d2f05ebfce6e99028c3bc
+MD5sum: 93e7bce14d28fd5e3e9fff17edf84640
+Description: Client perl libraries for lim-agentd
+ Client perl libraries for communicating with lim-agentd.
+
+Package: liblim-agent-common-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 48
+Depends: perl, liblim-common-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-agent-common-perl_0.19-3~wheezy+1_all.deb
+Size: 6344
+SHA256: a8191b77ee5d587ae6b934be8cde89836a138933fcaa5cfa2653de4c8e6960e1
+SHA1: 73397e6a4aa2fbe437ceb196858b5229428d100d
+MD5sum: 128a39a5bf1292767f4924316db4f9f8
+Description: Common perl libraries for lim-agentd
+ Common lim-agentd perl libraries.
+
+Package: liblim-agent-server-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 53
+Depends: perl, liblim-agent-common-perl (= 0.19-3~wheezy+1), liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-agent-server-perl_0.19-3~wheezy+1_all.deb
+Size: 6512
+SHA256: 0a4417bfc9a615a979809f3cafd13c336ce2dd90743fc54522f5b2be46fa93f5
+SHA1: f8da83bae587d098ae7a70c6fb94c5b0b788a7f1
+MD5sum: 7ada60675df102e32e1d0a5b3c8c1ba4
+Description: Server perl libraries for lim-agentd
+ Server perl libraries for lim-agentd.
+
+Package: liblim-cli-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 72
+Depends: perl, liblim-common-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-cli-perl_0.19-3~wheezy+1_all.deb
+Size: 13984
+SHA256: 4884c96bf6cadd04ddd7ac3dc2dab914214bed4889dce82b0615b7b30d575c12
+SHA1: 25f5c022a706d955362a042ddf39360d97fefef6
+MD5sum: 9fd9bd0bc67be2ed5efdcd022d8b9136
+Description: Lim CLI perl libraries
+ Lim CLI perl libraries for controlling a local or remote Lim server.
+
+Package: liblim-common-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 182
+Depends: perl (>= 5.10.1), libanyevent-perl (>= 5), libcommon-sense-perl (>= 3), libjson-xs-perl (>= 2), liblog-log4perl-perl (>= 1), libmodule-find-perl, liburi-perl (>= 1), libwww-perl (>= 5), libyaml-perl (>= 0.70), libnet-ssleay-perl (>= 1.35), libdbi-perl (>= 1.612)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-common-perl_0.19-3~wheezy+1_all.deb
+Size: 56654
+SHA256: c96aece5412d267572ab7388327aec68118b62870294a38d199a5e9a238f39c7
+SHA1: f78e065f1b12689579c38f31ffa3d144197cb39c
+MD5sum: 9d39e8b8e8d79dbd5aa5e6caca2a9936
+Description: Common perl libraries for Lim
+ Common Lim perl libraries depended by all Lim packages.
+
+Package: liblim-plugin-dns-cli-perl
+Source: liblim-plugin-dns-perl
+Version: 0.12-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 73
+Depends: perl, liblim-cli-perl (>= 0.16-1~wheezy+1), liblim-plugin-dns-client-perl (= 0.12-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-dns/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-dns-perl/liblim-plugin-dns-cli-perl_0.12-1~wheezy+1_all.deb
+Size: 8160
+SHA256: 5ce982a6de54ba7cf647fc94ddb35daa8a204ac56408892d7b59c2653b43e3fd
+SHA1: 2248d52b7c86d6fc5731390e8c126872f144103a
+MD5sum: ddac2a37c673b27f0b80a873b25ad89f
+Description: CLI perl libraries for DNS Manager Lim plugin
+ CLI perl libraries for managing generic DNS related information via DNS Manager
+ Lim plugin.
+
+Package: liblim-plugin-dns-client-perl
+Source: liblim-plugin-dns-perl
+Version: 0.12-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 54
+Depends: perl, liblim-plugin-dns-common-perl (= 0.12-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-dns/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-dns-perl/liblim-plugin-dns-client-perl_0.12-1~wheezy+1_all.deb
+Size: 5514
+SHA256: a4aaf04bebbee0230f72bfb63e42669fd08a4af450adff2810d20383b84b6ffc
+SHA1: 4479735a01735d606efcb28a29b87716f9c94264
+MD5sum: 95ecca65d515b507e141a789bd0dc22b
+Description: Client perl libraries for DNS Manager Lim plugin
+ Client perl libraries for communicating with the DNS Manager Lim plugin.
+
+Package: liblim-plugin-dns-common-perl
+Source: liblim-plugin-dns-perl
+Version: 0.12-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 79
+Depends: perl, liblim-common-perl (>= 0.16-1~wheezy+1), libcommon-sense-perl (>= 3), perl (>= 5.10.0) | libdigest-sha-perl (>= 5)
+Homepage: http://github.com/jelu/lim-plugin-dns/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-dns-perl/liblim-plugin-dns-common-perl_0.12-1~wheezy+1_all.deb
+Size: 10676
+SHA256: f9db0f85509bd3624414f54476c469ef56fb6ebb4c0a1204a240967d37567019
+SHA1: 3e01f0056a5098fc00518adab88179704c0b8f5d
+MD5sum: e2111f382d5265f2a81752cffd49c31d
+Description: Common perl libraries for DNS Manager Lim plugin
+ Common perl libraries for DNS Manager Lim plugin.
+
+Package: liblim-plugin-dns-server-perl
+Source: liblim-plugin-dns-perl
+Version: 0.12-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 115
+Depends: perl, liblim-plugin-dns-common-perl (= 0.12-1~wheezy+1), liblim-server-perl (>= 0.16-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-dns/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-dns-perl/liblim-plugin-dns-server-perl_0.12-1~wheezy+1_all.deb
+Size: 13090
+SHA256: 8c3ecd4e640724667f046aae02d3d4a63603f9317451626bc52e101886bf8038
+SHA1: c17f3e2211c7b366f298d3ccdcfb58d657a030ce
+MD5sum: bc8eac898d8364a594a161db3b619df5
+Description: Server perl libraries for DNS Manager Lim plugin
+ Server perl libraries for DNS Manager Lim plugin.
+
+Package: liblim-plugin-opendnssec-cli-perl
+Source: liblim-plugin-opendnssec-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 125
+Depends: perl, liblim-cli-perl (>= 0.16-1~wheezy+1), liblim-plugin-opendnssec-client-perl (= 0.14-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-opendnssec/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-opendnssec-perl/liblim-plugin-opendnssec-cli-perl_0.14-1~wheezy+1_all.deb
+Size: 10794
+SHA256: ec1dab568f1e8417fbcb1a00edf6b74fa7aaecb4d9100b1e9fa376b5262a9233
+SHA1: 0c079d1e529d17d390a4cc18d0cc19b1edbdd017
+MD5sum: 7720d9c4d1b511bc623c279380d9855f
+Description: CLI perl libraries for OpenDNSSEC Lim plugin
+ CLI perl libraries for controlling a local or remote OpenDNSSEC installation
+ via OpenDNSSEC Lim plugin.
+
+Package: liblim-plugin-opendnssec-client-perl
+Source: liblim-plugin-opendnssec-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 54
+Depends: perl, liblim-plugin-opendnssec-common-perl (= 0.14-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-opendnssec/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-opendnssec-perl/liblim-plugin-opendnssec-client-perl_0.14-1~wheezy+1_all.deb
+Size: 5504
+SHA256: ad26cc36e3fcd6b414793ec656e78ef9745f35f7f45264c2d8b38ad60a1552dd
+SHA1: 5d5b3a777f24eef2ae76c51ca99393b435d4d31a
+MD5sum: 85f2abbf9242f878a3626618b42b9dd5
+Description: Client perl libraries for OpenDNSSEC Lim plugin
+ Client perl libraries for communicating with the OpenDNSSEC Lim plugin.
+
+Package: liblim-plugin-opendnssec-common-perl
+Source: liblim-plugin-opendnssec-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 99
+Depends: perl, liblim-common-perl (>= 0.16-1~wheezy+1), libcommon-sense-perl (>= 3), perl (>= 5.10.0) | libdigest-sha-perl (>= 5)
+Homepage: http://github.com/jelu/lim-plugin-opendnssec/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-opendnssec-perl/liblim-plugin-opendnssec-common-perl_0.14-1~wheezy+1_all.deb
+Size: 16570
+SHA256: 54dff49b4d44d21e36f0a2b32e33e84500addaf7369ecdfa93f23f0e8eb20b94
+SHA1: d50bed5ed3a3d04688235071791b471efa7a556f
+MD5sum: 8945af08d8380e00f4f4648fb23dd6e2
+Description: Common perl libraries for OpenDNSSEC Lim plugin
+ Common perl libraries for OpenDNSSEC Lim plugin.
+
+Package: liblim-plugin-opendnssec-server-perl
+Source: liblim-plugin-opendnssec-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 174
+Depends: perl, liblim-plugin-opendnssec-common-perl (= 0.14-1~wheezy+1), liblim-server-perl (>= 0.16-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-opendnssec/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-opendnssec-perl/liblim-plugin-opendnssec-server-perl_0.14-1~wheezy+1_all.deb
+Size: 15722
+SHA256: 625e31b14ce7aec8dada5b4ca05e15930fc9b51feaf97d9ced631115a99be8e2
+SHA1: cd00718c54abca8c7617c24e533fcb255e9f50c9
+MD5sum: a47ca75550ba4242cabfc803550935e9
+Description: Server perl libraries for OpenDNSSEC Lim plugin
+ Server perl libraries for OpenDNSSEC Lim plugin.
+
+Package: liblim-plugin-softhsm-cli-perl
+Source: liblim-plugin-softhsm-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 70
+Depends: perl, liblim-cli-perl (>= 0.16-1~wheezy+1), liblim-plugin-softhsm-client-perl (= 0.14-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-softhsm/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-softhsm-perl/liblim-plugin-softhsm-cli-perl_0.14-1~wheezy+1_all.deb
+Size: 8454
+SHA256: 4d0a671ed2e2633fef73eb35407a4433ba1e26fa82d9318b488db99c2525ed6c
+SHA1: c4e29e45f3fc6c9b85d2b5f33bcc8d53ac004414
+MD5sum: a15b0f7fe4cfb848e0e33bfefee5edf7
+Description: CLI perl libraries for SoftHSM Lim plugin
+ CLI perl libraries for controlling a local or remote SoftHSM installation via
+ SoftHSM Lim plugin.
+
+Package: liblim-plugin-softhsm-client-perl
+Source: liblim-plugin-softhsm-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 54
+Depends: perl, liblim-plugin-softhsm-common-perl (= 0.14-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-softhsm/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-softhsm-perl/liblim-plugin-softhsm-client-perl_0.14-1~wheezy+1_all.deb
+Size: 5644
+SHA256: 8b2e4b364b09e194f9bfe8ec11b43013b9d0c81756b6635d55aad6d3ca8ad5cd
+SHA1: e218b3bed7da802b5efa47dde624edba7e926b80
+MD5sum: 739bbf578df4fbaf4bf2c7921b456b4d
+Description: Client perl libraries for SoftHSM Lim plugin
+ Client perl libraries for communicating with the SoftHSM Lim plugin.
+
+Package: liblim-plugin-softhsm-common-perl
+Source: liblim-plugin-softhsm-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 65
+Depends: perl, liblim-common-perl (>= 0.16-1~wheezy+1), libcommon-sense-perl (>= 3), perl (>= 5.10.0) | libdigest-sha-perl (>= 5)
+Homepage: http://github.com/jelu/lim-plugin-softhsm/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-softhsm-perl/liblim-plugin-softhsm-common-perl_0.14-1~wheezy+1_all.deb
+Size: 10230
+SHA256: 6e926678f934782cf61352d4f48699b802806d829a5583c289e7eb2e25dc734c
+SHA1: 2ad83b0960a339b97195b463588a601a0fed7188
+MD5sum: 3d433be54966e4ff38bde00f7d2f6ee3
+Description: Common perl libraries for SoftHSM Lim plugin
+ Common perl libraries for SoftHSM Lim plugin.
+
+Package: liblim-plugin-softhsm-server-perl
+Source: liblim-plugin-softhsm-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 77
+Depends: perl, liblim-plugin-softhsm-common-perl (= 0.14-1~wheezy+1), liblim-server-perl (>= 0.16-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-softhsm/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-softhsm-perl/liblim-plugin-softhsm-server-perl_0.14-1~wheezy+1_all.deb
+Size: 10230
+SHA256: 1287db77c7f405c6852f1a87ebaf75ecbc54772da73c0c90345d1d025f02c0d8
+SHA1: f19ca592e4c53fb8df8a4fe11190c058de6ec3cd
+MD5sum: 3005fb11e52e1c189329f00e32334fc6
+Description: Server perl libraries for SoftHSM Lim plugin
+ Server perl libraries for SoftHSM Lim plugin.
+
+Package: liblim-protocol-http-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 58
+Depends: perl, liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-protocol-http-perl_0.19-3~wheezy+1_all.deb
+Size: 7318
+SHA256: 14cc44077cdff6195453a37714ed9924bd9c8d24ef91b123f5da523a0147cdeb
+SHA1: 7faae8dccce170ae836f1727a6233ecbf9db1935
+MD5sum: cb713e9f7d072a2238516066e7f20def
+Description: Lim HTTP protocol perl libraries
+ Lim perl libraries for HTTP protocol.
+
+Package: liblim-protocol-jsonrpc-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 72
+Depends: perl, libjson-xs-perl (>= 2), liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-protocol-jsonrpc-perl_0.19-3~wheezy+1_all.deb
+Size: 8546
+SHA256: 691da807321d8082aa19ff2d74cd8f6ff9b23a7bb493de88f0364daee82cf340
+SHA1: 83e64c93ed1ecb71fc613ee45ffe244f40e71aaf
+MD5sum: 3b076453d04fc1609e5ca5c6c44583ab
+Description: Lim JSONRPC 1.0/2.0 protocol perl libraries
+ Lim perl libraries for JSONRPC 1.0/2.0 protocol.
+
+Package: liblim-protocol-rest-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 61
+Depends: perl, libjson-xs-perl (>= 2), liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-protocol-rest-perl_0.19-3~wheezy+1_all.deb
+Size: 7642
+SHA256: ab11ad8d20057db70ac7349646a6857f100eae8add1a0e1d2538363ebf01c06f
+SHA1: 59feed515c04930ce25b8f2a24b95925e122ca52
+MD5sum: de26c44285584f5cbe0d0abd2b631a76
+Description: Lim REST protocol perl libraries
+ Lim perl libraries for REST protocol.
+
+Package: liblim-protocol-soap-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 68
+Depends: perl, libsoap-lite-perl (>= 0.71), liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-protocol-soap-perl_0.19-3~wheezy+1_all.deb
+Size: 9368
+SHA256: c6a5f9c9144c91bd2ee881fb6acafdd2048fe91f26dcc239629d72758aab9fb4
+SHA1: 4103390c75a287517f1c4cad34ca539e9f8d24d1
+MD5sum: b0a69028cabe6c1a6ac989f4c16a5f88
+Description: Lim SOAP protocol perl libraries
+ Lim perl libraries for SOAP protocol.
+
+Package: liblim-protocol-xmlrpc-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 61
+Depends: perl, libxmlrpc-lite-perl (>= 0.71) | libsoap-lite-perl (>= 0.71), libxmlrpc-transport-http-server-perl (>= 0.12), liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-protocol-xmlrpc-perl_0.19-3~wheezy+1_all.deb
+Size: 8146
+SHA256: f526c697cd98877f12621e858878ab35117eda07c22d7ccaa5c7ca8937dea3c0
+SHA1: 2b5f6f795992f6d1668f586818bb2fedf463ac53
+MD5sum: 352ac1c174b9e3132b7855624bd280df
+Description: Lim XMLRPC protocol perl libraries
+ Lim perl libraries for XMLRPC protocol.
+
+Package: liblim-server-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 481
+Depends: perl, liblim-common-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-server-perl_0.19-3~wheezy+1_all.deb
+Size: 132546
+SHA256: a2c818770d7d2ea6d407fb5859905fd1ceb4a22feffa9d4adadc2a30df7f6bc5
+SHA1: 46133ccd3500bd6a3a8711a53372c4b463ffab40
+MD5sum: c4e820d294c61cfd437d4f35bb66d927
+Description: Lim server perl libraries
+ Lim server perl libraries for communicating with Lim via many different
+ protocols.
+
+Package: liblim-transport-http-perl
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 69
+Depends: perl, liblim-server-perl (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/liblim-transport-http-perl_0.19-3~wheezy+1_all.deb
+Size: 10788
+SHA256: 5c43fd2a1956ac70177256739bf06e3573920734033f4f22a8ccdcc5eef47b1c
+SHA1: 78175d1f7ba2114f99cffb2b640cfdc426520b8a
+MD5sum: b1dd20ea60eebbae3c15a4740834e35e
+Description: Lim HTTP/HTTPS transport perl libraries
+ Lim perl libraries for HTTP/HTTPS transport.
+
+Package: liblog-log4perl-appender-lim-cli-perl
+Version: 0.15-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 60
+Depends: perl, liblog-log4perl-perl (>= 1)
+Homepage: http://github.com/jelu/log-log4perl-appender-lim-cli/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblog-log4perl-appender-lim-cli-perl/liblog-log4perl-appender-lim-cli-perl_0.15-1~wheezy+1_all.deb
+Size: 6252
+SHA256: e74a0a8849e41b14b1a8cef8e2826fe67d05db799a46a0e4c9f80b9b7988167e
+SHA1: 65d9d9c36d923c50a1b22e7b3063f4f1e9f83590
+MD5sum: 88377a5092d599703f447140119b5e46
+Description: Log::Log4perl::Appender::Lim::CLI - A Log4perl appender for Lim CLI
+ This module is used for getting Log::Log4perl output to the Lim::CLI module.
+
+Package: libxmlrpc-transport-http-server-perl
+Version: 0.14-2~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 56
+Depends: perl, libxmlrpc-lite-perl (>= 0.71) | libsoap-lite-perl (>= 0.71)
+Homepage: http://github.com/jelu/xmlrpc-transport-http-server/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libx/libxmlrpc-transport-http-server-perl/libxmlrpc-transport-http-server-perl_0.14-2~wheezy+1_all.deb
+Size: 6518
+SHA256: 56da736035ae22daec987ac6db5fb3dd94adabf089279b3f8e9285a4584fa3e0
+SHA1: 36ca68bb768532880ee84e997b6a0a96918cc7d0
+MD5sum: 45ba973b74126f0c3a9ec6ebd16d63c0
+Description: XMLRPC::Transport::HTTP::Server - XMLRPC::Lite HTTP Server
+ This module extends the XMLRPC::Lite suite with a XMLRPC::Transport::HTTP::Server
+ which is just a SOAP::Transport::HTTP::Server with the XMLRPC::Server functions
+ for understanding the XMLRPC protocol.
+
+Package: lim-agentd
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 75
+Depends: perl, liblim-agent-server-perl (= 0.19-3~wheezy+1), liblog-dispatch-perl (>= 2.22), openssl (>= 0.9.8), lim-common (= 0.19-3~wheezy+1), hostname (>= 3.03)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/lim-agentd_0.19-3~wheezy+1_all.deb
+Size: 10752
+SHA256: 1c4915b9334df17157ddd3ca4ebb059338a723f05732a5c2e00d017edbe7b22c
+SHA1: f586e034cf85b0902ca18aa6cccba4cb274dac42
+MD5sum: 0c0b8dedcb5bccf78b448b5e7f103e20
+Description: Lim agent daemon
+ The Lim agent daemon that serves all plugins.
+
+Package: lim-cli
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 58
+Depends: perl, liblim-agent-cli-perl (= 0.19-3~wheezy+1), openssl (>= 0.9.8), lim-common (= 0.19-3~wheezy+1), hostname (>= 3.03), liblog-log4perl-appender-lim-cli-perl (>= 0.12)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/lim-cli_0.19-3~wheezy+1_all.deb
+Size: 7478
+SHA256: 48c58760357e1c7df9bc1f500a7f7c907085a058c1c5487aa33b53f8b41e8065
+SHA1: 530b08a9e57f1f144d9e0dc3b9b0d7a68cfcf6d4
+MD5sum: f602f885258911f268ca7db2e1f3d471
+Description: Lim command line interface
+ The Lim CLI used to control a local or remote Lim agent.
+
+Package: lim-common
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 47
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/lim-common_0.19-3~wheezy+1_all.deb
+Size: 3216
+SHA256: 0d2bf371ff221c8675d5dc27c577471b011660f9b4f7c94557ad61720981fce1
+SHA1: 44ecb1a4d71d76fc267bcb9f5abdb1f8095546c8
+MD5sum: 9932ba5558feb6adc1e5ae0d48de84df
+Description: Lim common files
+ Common Lim files and directories.
+
+Package: lim-management-console-agent
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 47
+Depends: lim-management-console-common (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/lim-management-console-agent_0.19-3~wheezy+1_all.deb
+Size: 4318
+SHA256: 89d11694e8eff712779c2a3bc49a7514e2f8bdbfb00d89c88a3c3d19b7079cb0
+SHA1: a9d12e4959ace7620e77b27ef13ae08c8fc3e6af
+MD5sum: 7fd506a783136fc36f64b021cf6be3cc
+Description: Lim Agent Daemon's Management Console files
+ Lim Agent Daemon's Management Console files.
+
+Package: lim-management-console-common
+Source: lim
+Version: 0.19-3~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 367
+Depends: lim-agentd (= 0.19-3~wheezy+1)
+Homepage: https://github.com/jelu/lim/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/l/lim/lim-management-console-common_0.19-3~wheezy+1_all.deb
+Size: 102774
+SHA256: 7730305bb49012ba724fe0b1ae8ab298c091d2b75688d0cafe20475bc1ddf25a
+SHA1: 64d278075627f046982ecf878a3b27e6e2b439cb
+MD5sum: bce77f97c2b9661ec4807667cc9b3979
+Description: Lim Management Console common files
+ Common Lim Management Console files and directories.
+
+Package: lim-management-console-dns
+Source: liblim-plugin-dns-perl
+Version: 0.12-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 92
+Depends: lim-management-console-common (>= 0.16-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-dns/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-dns-perl/lim-management-console-dns_0.12-1~wheezy+1_all.deb
+Size: 8548
+SHA256: 6c09fefbd37f2d703816fd79e892e75af0f54ee67f805781a79b3d2793f04dc5
+SHA1: 4c0b3c9584da092f4e90d5bde113fc6a3c7b6d07
+MD5sum: c58be87de3f3a6522cee739c09fb23fa
+Description: DNS Manager Lim plugin Management Console files
+ DNS Manager Lim plugin Management Console files.
+
+Package: lim-management-console-opendnssec
+Source: liblim-plugin-opendnssec-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 84
+Depends: lim-management-console-common (>= 0.16-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-opendnssec/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-opendnssec-perl/lim-management-console-opendnssec_0.14-1~wheezy+1_all.deb
+Size: 8724
+SHA256: 8dbbd134ffde6510f852a1eab32a2c9f9d0f513bca3ecea3e792365829e19f7f
+SHA1: 3aff095aab5124aa78293aeac23887c55b7d4f2a
+MD5sum: 969c36405a2c55fb6220e81d087de258
+Description: OpenDNSSEC Lim plugin Management Console files
+ OpenDNSSEC Lim plugin Management Console files.
+
+Package: lim-management-console-softhsm
+Source: liblim-plugin-softhsm-perl
+Version: 0.14-1~wheezy+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 55
+Depends: lim-management-console-common (>= 0.16-1~wheezy+1)
+Homepage: http://github.com/jelu/lim-plugin-softhsm/wiki
+Priority: optional
+Section: perl
+Filename: pool/main/libl/liblim-plugin-softhsm-perl/lim-management-console-softhsm_0.14-1~wheezy+1_all.deb
+Size: 5078
+SHA256: 1a7aed718dfe428d1df7226dda7f15db172139bc753b7cd198ac06abc245d233
+SHA1: 618365a0db11280130356ef47ecaaa8c4668d8bd
+MD5sum: d25b08641a8ce06116555ea4420d6076
+Description: SoftHSM Lim plugin Management Console files
+ SoftHSM Lim plugin Management Console files.
+

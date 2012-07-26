@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: http://jelu.github.io/zonemaster/debian
+Label: zonemaster sid apt repository
+Codename: sid
+Date: Tue, 12 Jan 2016 14:52:13 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Zonemaster
+MD5Sum:
+ 253f436d33471d7bbd7b2dc32d9286f3 5612 main/binary-i386/Packages
+ 36d017778789a822abfd5a48c0ca28ad 1840 main/binary-i386/Packages.gz
+ ac4ac806276e9fb2440613591c402645 174 main/binary-i386/Release
+ cf893e417f2f49719b9eda36a80dc3b9 5620 main/binary-amd64/Packages
+ 1f7afadaa9eba2ee5804e4b9f120f246 1842 main/binary-amd64/Packages.gz
+ 50e7e701401e85ead8903bbe10899428 175 main/binary-amd64/Release
+ dd063a1c475c09631ad4b2d856c3b10c 5810 main/source/Sources
+ 2662b605b52c6c92cb2214a1eba2c3de 1827 main/source/Sources.gz
+ 687bef00a2bce093892de5003ab886b3 176 main/source/Release
+SHA1:
+ 9fd4effe25e47a7ddd0b487f7f2e09e6e06a5829 5612 main/binary-i386/Packages
+ 6d92e9b717223cfe7c5b5b6b911153f109041ab7 1840 main/binary-i386/Packages.gz
+ 670b80c2d0e6c573d5c17f36580aad346f378e1b 174 main/binary-i386/Release
+ 10248ff4b78f6f0b65ad2399f583f699825674f2 5620 main/binary-amd64/Packages
+ 080ab63f4ba09c8d31480cc6f2f026267dee829b 1842 main/binary-amd64/Packages.gz
+ 6ae8a2c83ac6e5dcf0ab0d3809fdc2fbd34dad22 175 main/binary-amd64/Release
+ aa2632173b57d7162f6c1da8fd35b93f7f8bc54b 5810 main/source/Sources
+ 99c02a8e6418718ca7337b041c619e92a00bacb2 1827 main/source/Sources.gz
+ 99a3589b4f7c02e0ee3f87e05eb4f115c8211da3 176 main/source/Release
+SHA256:
+ ec7eed2c5fe62d729b7e95812674397c2e40e7354b425c9614d402a989965296 5612 main/binary-i386/Packages
+ 4ee1e8ef07b2904df8bf278cdb6f3d59f5a8b54aaaf49bd529e7d50218c00dc2 1840 main/binary-i386/Packages.gz
+ a203e05447ded119bab1722910344b898e20bd045c3d1873786e2f210d38f2a7 174 main/binary-i386/Release
+ 3e913bb0bc6ee459cdf23bf7f23faff9d4f550e7f2fdd0d6e8ff829f786d7e84 5620 main/binary-amd64/Packages
+ 419ff3ad5cf85166445116b01f85425f452d9cacd4c494ab6bf9290a2981c276 1842 main/binary-amd64/Packages.gz
+ 1bb02a9e9d2657b091907ca7fc5c99099f076dc8b84d20004da73e2f7cf60204 175 main/binary-amd64/Release
+ 0c4288828049244700875251781a08b6e02fd6e49552adf60a13ee2231df8a06 5810 main/source/Sources
+ 18852d22cd3cafcc77db243ebf4710a168f45826e5f1162888b5e205f94af431 1827 main/source/Sources.gz
+ e1bd14ee1e20e977fce63fb3c80975dc0dad371ee69b0fb79ed6b1032da5defc 176 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQJ8BAEBCgBmBQJWlRMdXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFOu4P/1IZDJug03wVSYWnRUzhTpX5
+pREFaE8rpgTwCI7foYs9V2P5RUfeFD9yjbYn2McYVq9FvEb5wf2l2yKc4yfc6q4n
+ClOQqbh1BXNBsTLvXbsKnvJnc4yqjJwH4gqKAD6TrrznzIwSmxRgxQpS5wE288py
+dKQQAwOz2DnT6qdyI6X+3NkHvryxxJDPhGAVvr/ejR62CgxcCaWmsWFoCxadN+rd
+QBRIsaizEDQMblqZ3DIE6UwwvKLR+IpVYfxNWfUAhRoHX+L2v2ovjWaxzL44id5y
+z4Uz4V5p+ND/xr0C+p+lmgqH687P5PAzB4a9TYREtQCqcetCsCi2CMjHHh08BbDa
+2Awcfe53T4SHdIdAH6JQvU4W8/M6cdgm79tFhz/BAUqF6XCHVvXZZv6cTSz0M4yd
+q4UJNqczCF1ALGKaG4sbo/gq1RGOyjnWo5Juyb1Oe2ybvIugKNSXXle/WuU6VDzg
+Z1PHFqGqNwWue4NnJlMw0Ot6JgJ2zKaOMD6ALjnH8rLyJv6k5hNAMqaWVR+fpZT6
+J0T5b7QSikufJDqhKOsr0JGxby9WRHIPVcAobjbtlB2YLUX8xzOV2NxVVZY/K+9g
+4zkc+MB4WTXVJqjVwCHBGb8egzgNKgb546K3Wz4JUR7MiNyQtePBPDqtJa3ZQk9A
+0UHR51bRXgNIE7v6ADWr
+=ERJu
+-----END PGP SIGNATURE-----

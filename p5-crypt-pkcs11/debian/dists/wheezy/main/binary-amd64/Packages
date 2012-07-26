@@ -1,0 +1,19 @@
+Package: libcrypt-pkcs11-perl
+Version: 1.03-1~wheezy+1
+Architecture: amd64
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 1587
+Depends: perl (>= 5.14.2-21+deb7u2), perlapi-5.14.2, libc6 (>= 2.4), libcommon-sense-perl (>= 3)
+Homepage: http://search.cpan.org/dist/Crypt-PKCS11/
+Priority: optional
+Section: perl
+Filename: pool/main/libc/libcrypt-pkcs11-perl/libcrypt-pkcs11-perl_1.03-1~wheezy+1_amd64.deb
+Size: 495250
+SHA256: 43cad6cf168bce4390f2fdce5b57b8b0a7c6b4272457b86ec080a1c63dac371a
+SHA1: 40c7aec347e1e6552283f86c1c531c6fb50cb8b5
+MD5sum: 314c24883ab8d28ebe3be01fcf3af3fc
+Description: Full-fledged PKCS #11 v2.30 interface for Perl
+ Crypt::PKCS11 provides a full-fledged PKCS #11 v2.30 interface for Perl and
+ together with a PKCS #11 provider .so library you can use all the functionality
+ a Hardware Security Module (HSM) has to offer from within Perl.
+

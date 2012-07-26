@@ -1,0 +1,5 @@
+Component: main
+Origin: https://jelu.github.com/danish/debian
+Label: danish sid apt repository
+Architecture: amd64
+Description: Debian package repository for danish

@@ -1,0 +1,19 @@
+Package: libtest-command-simple-perl
+Version: 0.03-1~sid+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 72
+Depends: perl
+Homepage: http://search.cpan.org/dist/Test-Command-Simple/
+Priority: optional
+Section: perl
+Filename: pool/main/libt/libtest-command-simple-perl/libtest-command-simple-perl_0.03-1~sid+1_all.deb
+Size: 9826
+SHA256: 3059d5aff7a5c04685b3161ba34c5f6fc720074c0b7f7e00f6bc373848317afb
+SHA1: 0c865daf08664291f7301b9ae9a38aefff79b88b
+MD5sum: ae65938af234da673f0458d54562b45f
+Description: Test external commands (nearly) as easily as loaded modules.
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
+

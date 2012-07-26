@@ -1,0 +1,37 @@
+Origin: http://jelu.github.com/lim/debian
+Label: Lim squeeze apt repository
+Codename: squeeze
+Date: Mon, 02 Sep 2013 10:41:51 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Lim
+MD5Sum:
+ 3293343f05d257530b99f73f089c1624 26669 main/binary-i386/Packages
+ 3bf163c217d8c65fb8485d6334d924c8 5976 main/binary-i386/Packages.gz
+ 544183ebd68723ca5c26e591059c2977 158 main/binary-i386/Release
+ 3293343f05d257530b99f73f089c1624 26669 main/binary-amd64/Packages
+ 3bf163c217d8c65fb8485d6334d924c8 5976 main/binary-amd64/Packages.gz
+ 7b444b1e2c6258f39e5e438a6669f6f2 159 main/binary-amd64/Release
+ 53ae3ab1f2762e83c49bae897c536564 9342 main/source/Sources
+ 64ae7fecb01d7fa3114c38bfcf6b320b 2377 main/source/Sources.gz
+ 4f70c79cdfe2cadbea73e06e2b3edba3 160 main/source/Release
+SHA1:
+ f41a0ff85c58b8321e0490dd730c450e051ef687 26669 main/binary-i386/Packages
+ 4a9221140571c048b7b0a7af81b45bc73b298b8d 5976 main/binary-i386/Packages.gz
+ 0409669a3d2556eba40dfd5bfc7f10de4678045f 158 main/binary-i386/Release
+ f41a0ff85c58b8321e0490dd730c450e051ef687 26669 main/binary-amd64/Packages
+ 4a9221140571c048b7b0a7af81b45bc73b298b8d 5976 main/binary-amd64/Packages.gz
+ 3f88060aaff979406ce8b49e6a263b51a9ab86e7 159 main/binary-amd64/Release
+ 577b0f7c78b93b621b4ba98492c8ecf6bdb51ad8 9342 main/source/Sources
+ 5629eb063314455b185ee13e6838c94bc888c4cb 2377 main/source/Sources.gz
+ cce79ffb632a5d7272de1ef219ab95385565e59b 160 main/source/Release
+SHA256:
+ 43540302d92b5d87a3c2a07129b783face4dab7a7b42aa33938d964fbad3a18a 26669 main/binary-i386/Packages
+ 5af54a8bd576738120dad387a9fc8357416c8ba790befab184a61a22fd6443c7 5976 main/binary-i386/Packages.gz
+ c433f1d0066e13c34f2aeaf16c3e13c2cd673a1257fec0310bb9338617089f83 158 main/binary-i386/Release
+ 43540302d92b5d87a3c2a07129b783face4dab7a7b42aa33938d964fbad3a18a 26669 main/binary-amd64/Packages
+ 5af54a8bd576738120dad387a9fc8357416c8ba790befab184a61a22fd6443c7 5976 main/binary-amd64/Packages.gz
+ 4ffb2819f14a4eeb7ca013a467141f98671a5d6e3ba4775eb9f91a46e374f972 159 main/binary-amd64/Release
+ ca035809fccb410d2f42fde01e3792b0bc32017025eb423ad92c99237057c53e 9342 main/source/Sources
+ f8b283a2a6a142ea71bbdd50eade74e03df85814a9a8ccda02df3880f9ffdad2 2377 main/source/Sources.gz
+ d45aef652313be40da16e1ed008bc9679079a37da6080fa7ccc735c17d10e3df 160 main/source/Release

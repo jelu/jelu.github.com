@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: http://jelu.github.io/validns/debian
+Label: validns wheezy apt repository
+Codename: wheezy
+Date: Thu, 19 Feb 2015 09:54:50 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for validns
+MD5Sum:
+ 5ffc2aa1fca3283305c2af28d9dc8d47 1630 main/binary-i386/Packages
+ ec586cec2760c3f128fadd0bd13e62d3 958 main/binary-i386/Packages.gz
+ bbc5c83a349b9f14553289a971c333f2 168 main/binary-i386/Release
+ 617de4d42bb2933a976094177ee0142b 1627 main/binary-amd64/Packages
+ 243c8b765f6113c053fbc2379200cd35 957 main/binary-amd64/Packages.gz
+ e24b3577c5868735d1d991e1c4a0706f 169 main/binary-amd64/Release
+ 31d7cbddc07e168ef9860e27ae76c891 1039 main/source/Sources
+ 45bba1e2dc931d777869fefcf74ab7f3 569 main/source/Sources.gz
+ 351bd4914f11286b91dfdd7cf940633e 170 main/source/Release
+SHA1:
+ e0f55cee88624ffa5e53e7e6ed3b45eda3775414 1630 main/binary-i386/Packages
+ dad241817020620483bdfa30e8353e900588e81e 958 main/binary-i386/Packages.gz
+ 169f25501d06687388221cc6ef7bd0a9dfaf2977 168 main/binary-i386/Release
+ 24a80895285cae12556f36c7cfd8f7391d01ba2b 1627 main/binary-amd64/Packages
+ 553230a29352e436eb97e73560b28a08345eff90 957 main/binary-amd64/Packages.gz
+ 382000eae7585528ae68345f75ac58cc268167b8 169 main/binary-amd64/Release
+ 57d7c0f750c9c43e497b63a7884d9c57d50c5379 1039 main/source/Sources
+ 28457f81b7ad3c3e53345587f4b2697d69431f31 569 main/source/Sources.gz
+ a7ae964fc2976d4451880711648497c5dc38ea4c 170 main/source/Release
+SHA256:
+ f380b4c3501374417e026b82a5ca96173ea3ba59b371ab004f29d3a47d14816f 1630 main/binary-i386/Packages
+ 95c9246c2fb958667e094183e556239d82f615c5ae0abdf31f696be5883e0064 958 main/binary-i386/Packages.gz
+ c7b74ed4d9af0882c4f84fb424d937f4b7b254b0f5897932d97d614d9f0cc0d1 168 main/binary-i386/Release
+ a01ddbd5cc671c5f5451424d254e41c3776a19c9ec612e367b11017f8d09d660 1627 main/binary-amd64/Packages
+ 94ff084770c1a78d9259f2278303afa89c41a0a781237703b72a9fa0bdabb898 957 main/binary-amd64/Packages.gz
+ 86bc294c036ecce25753b5a8e0d7cd23bfc4e7bce1eb8a4852ac02b9881ccff9 169 main/binary-amd64/Release
+ b32e69a3261b44023184e8f39252b01948502a5b5e473c71a0a364bc538077d4 1039 main/source/Sources
+ 626c841d7a7ccfa5491be8bad3f6f66911b15f399c2f727e70c74cfdc6306f77 569 main/source/Sources.gz
+ d3089497fae284f54d41cb0cf265ed70a6a5f580602aa32098150bf33620c5b1 170 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQJ8BAEBCgBmBQJU5bLqXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFSc0P/ROnjqdn3HF5VXEXWvoqpuOY
+xYdE7tBAV2UZHYREuVQLpH0fCsqP0W1FcKTouihqneE7fTSyPADS6eR3lxisU2Wr
+yLrxIN0y+vP7FTp7PkZ6BFUsSkCFyWK9NS8Ho4fyWbNMS3rhZLX2TXbMIQlUlwoq
+SSmDxkAFmvl4N+vd569lZChLWuztLWmzv+z3bacfi76Q8nzQcD6Xp48q/WwwR7oi
+usDBcbgyfmFlUkECPgzPkBlgtGPqpyQ/SfRZKQZ1ik2dW4k+++nDX1jvNcj6Kzpv
+/WdHYRWZfgahPyZnLbnpx0MhpbafQ0cn3YQwYWG9wC2p6kLD0C1JvHIKnPw66Y3O
+8Ti4saiTMVnq2Ztv79tRczyE/aE6erg3YznzcRm51osK/6WKIZ2Vst1w8tGdI8Q0
+HODbs+Fj24UDQM3mRMXS1C0i+WWY/KxQvMgJk/Z5fzgQWtfzWUOucQoy3AumQdjN
+V+no8Rb+NCLqPttpQZhuBkAHvphibrZ2i4LHikxYgX12YY7pAjIl1w3CMm32xDhh
+DHNpHBNTIO2Mj/mHBXs6OlHmF3mgyaVOzdLB6UpiDkbTar7F7Kj7W8goXbaIgUtz
+B/dVdIPBnKotoYEmQPs/ETtSZiMt0p9rg2BSG7J8Ko4Nv15KHo7X/1KOW7zUCnZh
+NsxxWQKyvVvqrXBA/GCn
+=XVE+
+-----END PGP SIGNATURE-----

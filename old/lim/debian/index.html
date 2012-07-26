@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+Debian apt repository for:<br/>
+<a href="https://github.com/jelu/lim">https://github.com/jelu/lim</a><br/>
+<a href="https://github.com/jelu/lim-plugin-dns">https://github.com/jelu/lim-plugin-dns</a><br/>
+<a href="https://github.com/jelu/lim-plugin-opendnssec">https://github.com/jelu/lim-plugin-opendnssec</a><br/>
+<a href="https://github.com/jelu/lim-plugin-softhsm">https://github.com/jelu/lim-plugin-softhsm</a><br/>
+<a href="https://github.com/jelu/log-log4perl-appender-lim-cli">https://github.com/jelu/log-log4perl-appender-lim-cli</a><br/>
+<a href="https://github.com/jelu/xmlrpc-transport-http-server">https://github.com/jelu/xmlrpc-transport-http-server</a><br/>
+<a href="https://github.com/jelu/anyevent-readline-gnu">https://github.com/jelu/anyevent-readline-gnu</a><br/>
+<br/>
+Debian 6 (squeeze):<br/>
+<code>
+sudo bash -c 'echo "deb http://jelu.github.com/lim/debian squeeze main" > /etc/apt/sources.list.d/jelu.github.com.lim.list'<br/>
+wget -O - http://jelu.github.com/lundstrom.jerry@gmail.com.gpg.key | sudo apt-key add -</br>
+sudo apt-get update</br>
+sudo apt-get install lim-agentd</br>
+</code>
+<br/>
+Debian 7 (wheezy):<br/>
+<code>
+sudo bash -c 'echo "deb http://jelu.github.com/lim/debian wheezy main" > /etc/apt/sources.list.d/jelu.github.com.lim.list'<br/>
+wget -O - http://jelu.github.com/lundstrom.jerry@gmail.com.gpg.key | sudo apt-key add -</br>
+sudo apt-get update</br>
+sudo apt-get install lim-agentd</br>
+</code>
+<br/>
+Debian testing (jessie):<br/>
+<code>
+sudo bash -c 'echo "deb http://jelu.github.com/lim/debian jessie main" > /etc/apt/sources.list.d/jelu.github.com.lim.list'<br/>
+wget -O - http://jelu.github.com/lundstrom.jerry@gmail.com.gpg.key | sudo apt-key add -</br>
+sudo apt-get update</br>
+sudo apt-get install lim-agentd</br>
+</code>
+Debian unstable (sid):<br/>
+<code>
+sudo bash -c 'echo "deb http://jelu.github.com/lim/debian sid main" > /etc/apt/sources.list.d/jelu.github.com.lim.list'<br/>
+wget -O - http://jelu.github.com/lundstrom.jerry@gmail.com.gpg.key | sudo apt-key add -</br>
+sudo apt-get update</br>
+sudo apt-get install lim-agentd</br>
+</code>
+</body>
+</html>

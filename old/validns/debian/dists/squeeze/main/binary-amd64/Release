@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.com/validns/debian
+Label: validns squeeze apt repository
+Architecture: amd64
+Description: Debian package repository for validns

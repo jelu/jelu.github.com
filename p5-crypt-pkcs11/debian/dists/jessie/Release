@@ -1,0 +1,37 @@
+Origin: http://jelu.github.io/p5-crypt-pkcs11/debian
+Label: p5-crypt-pkcs11 jessie apt repository
+Codename: jessie
+Date: Thu, 19 Feb 2015 10:13:35 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for p5-Crypt-PKCS11
+MD5Sum:
+ d662cb8adc6a3c11e0ea494e63653791 878 main/binary-i386/Packages
+ 96cc8954c6357f1106c9ec0828251cc6 573 main/binary-i386/Packages.gz
+ 25b2e45cea965815421a96b6831dfda0 192 main/binary-i386/Release
+ 91c44e8ac9473228ecab51f39fc8f905 879 main/binary-amd64/Packages
+ 7f0f0b9bfb9893831d8232bac76341aa 575 main/binary-amd64/Packages.gz
+ 40f8b893cf3c8a77301bccea3336eb3a 193 main/binary-amd64/Release
+ 6afe3e2c530cbe4b9022fdf985c7e243 1075 main/source/Sources
+ d0b98cda73bb195909b791da85bce76e 558 main/source/Sources.gz
+ a687493c1730eb7bf2738325eb084cc1 194 main/source/Release
+SHA1:
+ a0785fa753934aef8dbd21d2e41b69a5cbc3c366 878 main/binary-i386/Packages
+ b96a0ad5cc42c3c7a983ffcd95dc50adefa0adca 573 main/binary-i386/Packages.gz
+ 89178af07acba3d54fdc2a6c4edbac062878a672 192 main/binary-i386/Release
+ d13e963630d49ba3fa43791d8ed3d76e373a3d10 879 main/binary-amd64/Packages
+ 287856903891314f43baf2f379f957b788fa3cd3 575 main/binary-amd64/Packages.gz
+ 0e47d60b356630ba618083175446731ac699a6d3 193 main/binary-amd64/Release
+ 3f7172580d2374971c7d21788719074e42d9650e 1075 main/source/Sources
+ 1431df7e39b2c74aa7dd9f90c68a037fc39a9f21 558 main/source/Sources.gz
+ e531a1b8698414ce1a7deb4d572a80eb0f63c276 194 main/source/Release
+SHA256:
+ f3e0f998016edd98816dcf73b5bfe7cf3452bb32b7d17c146a530d8375aadd95 878 main/binary-i386/Packages
+ 1b0a7afffb93997db25ed8500510e6492090521cbcfccadcba11179ffa319c0c 573 main/binary-i386/Packages.gz
+ 28155f9828b9cbccf5607a928ca1756ba2f4357638cac89bc46f356db0ad1467 192 main/binary-i386/Release
+ a7e3b58c41bf40c83dc5d7a3bac8d4a7ebe51ef88220cf97fa9f8dd08bba7f85 879 main/binary-amd64/Packages
+ 65a6144061b803b78f70793fdf01fdb2157b9e9927fa1deca47493864d93e145 575 main/binary-amd64/Packages.gz
+ 44804ff9543f37c5f1a039969501fd2851991f4b61c25a979fea57b5c046fe50 193 main/binary-amd64/Release
+ a7975d54c95a49849664d45de8890487bfaaca1e1668681d33fb3a861a6dd331 1075 main/source/Sources
+ 3b87a7c49d979df77eb46ab193c836b5e953623233adc33b122d857c194c0625 558 main/source/Sources.gz
+ 5e92eff7765f0932e1a0c1ae1c5f4b994eab9329d4f7bc8c936f7806408a5b11 194 main/source/Release

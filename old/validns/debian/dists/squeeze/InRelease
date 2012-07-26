@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: http://jelu.github.com/validns/debian
+Label: validns squeeze apt repository
+Codename: squeeze
+Date: Mon, 08 Oct 2012 08:29:42 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for validns
+MD5Sum:
+ 53fd9e4d17904eee8f38052dcd44d1d9 726 main/binary-i386/Packages
+ 3addf6c96bd1e0f884ca7e2617fa064b 481 main/binary-i386/Packages.gz
+ e554942f399f9f6b8555515b43f0fa24 170 main/binary-i386/Release
+ a7c456f1e3f92ef5cb170a00fb71559b 1365 main/binary-amd64/Packages
+ 893b620f0af5a2aa6ecd1acaae7a1a6a 754 main/binary-amd64/Packages.gz
+ 47fe06c77cb6a58e7f19897f9df56cc3 171 main/binary-amd64/Release
+ e153cffbbd2af47644e0a855300f64ed 2054 main/source/Sources
+ f89ed70a4c7b60f34f450e117ac756a3 872 main/source/Sources.gz
+ 620a4e27791e3508d88fbd8e0ec177ce 172 main/source/Release
+SHA1:
+ e12655fd50f1bdc914ca033578b39f48ba400e85 726 main/binary-i386/Packages
+ 15032393fe5ccbb096289a795274ae31255b8751 481 main/binary-i386/Packages.gz
+ 37212e1b6ef1dcc31691f35c4da703b6be8c988c 170 main/binary-i386/Release
+ cead07275944a452c948347053effe596b47f5ac 1365 main/binary-amd64/Packages
+ 7a26126411726b4b19c0108c061a1bcdb911c1ca 754 main/binary-amd64/Packages.gz
+ 9a8c219eb6b559f05386415d3db24fc5073371ba 171 main/binary-amd64/Release
+ f0b60d77ffdfad4742991329dbc23288b5262526 2054 main/source/Sources
+ 55bf9bb795e5ad812ebe51e6bd32d402622abdf3 872 main/source/Sources.gz
+ b5e0e099c052e1149332e5b379c1ec3a793da6c8 172 main/source/Release
+SHA256:
+ 70cd5f807032cbe1537095b47c97173a122f94403b02c608ba46a068803da6b0 726 main/binary-i386/Packages
+ 8b2aa4d483f1dc53295d845b21830f7162798d08a877dc60a07a82d827936b54 481 main/binary-i386/Packages.gz
+ 48b5abf50839b955516e23dc4f5cc31d1bf4d0e81127c16091011aedf8417ba2 170 main/binary-i386/Release
+ 4b27f475d589f757d52ea09df8f4fb5788698d009858b6069d7b48b9523dd901 1365 main/binary-amd64/Packages
+ 43685816d9031dda6b11ebccb9d2b887af3c98b5207ed24aeab73419905010d6 754 main/binary-amd64/Packages.gz
+ 5b1cb1076312443feb0eafccc15c2ade69f62e12a7cc92b7e1632b477636e193 171 main/binary-amd64/Release
+ 5c2e5d5026d72748e5ddfd36aa5209203f7c354749fbcef2b3e667ee02ca84ca 2054 main/source/Sources
+ 0c6bb5142078e85f4b060f3c46a4e585119de793c3f01ec1cedef32939771fdb 872 main/source/Sources.gz
+ 420cdffc5c8b4c9971d4317c08ad91933100760a1cca5d117d95b4f96a90380c 172 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQEcBAEBAgAGBQJQco72AAoJEOF0fHqKQzO7CyAH/jUEwvUbIgXWpaxTnXvIY2q4
+6DGiUqeiX4sS847B7P8FOxETSVvHy0fn/K/EyCOHbDub4ER+Ff4sZmbrAcjoSutN
+UQR99Mh+qauaWzk3aqZ03cSsk8WU9nZqNi2/cj5GgbrHk2t1SNozhqjlSxFo0mRA
+XcTM+NwHJvfFVDQ4M+lLIMip1Q0GoytHkO489MEUNenDlFtrZukX9H9Thf1CXRsq
+i5LKbdvrAMTZSXAEtwnAuaczDmpl3DRVw/QI3GZ6xUg5uycSa5KF+FCKYFqiEKXl
+Nz9BPMn4mB1ZY+E91Li2hbUppsAiDKnHmi8LfP/EItmDeMs660XEueramM8phgA=
+=oEq4
+-----END PGP SIGNATURE-----

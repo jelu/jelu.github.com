@@ -1,0 +1,36 @@
+Package: libtest-command-simple-perl
+Version: 0.03-1~sid+1
+Architecture: all
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 72
+Depends: perl
+Homepage: http://search.cpan.org/dist/Test-Command-Simple/
+Priority: optional
+Section: perl
+Filename: pool/main/libt/libtest-command-simple-perl/libtest-command-simple-perl_0.03-1~sid+1_all.deb
+Size: 9826
+SHA256: 3059d5aff7a5c04685b3161ba34c5f6fc720074c0b7f7e00f6bc373848317afb
+SHA1: 0c865daf08664291f7301b9ae9a38aefff79b88b
+MD5sum: ae65938af234da673f0458d54562b45f
+Description: Test external commands (nearly) as easily as loaded modules.
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
+
+Package: validns
+Version: 0.6git-1~sid+1
+Architecture: amd64
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 148
+Depends: libc6 (>= 2.3), libjudydebian1 (>= 1.0.5), libssl0.9.8 (>= 0.9.8m-1)
+Homepage: <insert the upstream URL, if relevant>
+Priority: extra
+Section: utils
+Filename: pool/main/v/validns/validns_0.6git-1~sid+1_amd64.deb
+Size: 44854
+SHA256: 401e82aa299942e97cac04a4b5d0369eec09be54da649466fd719fd374f6d8dc
+SHA1: 038cb9884a669ba2742700f1c3d08ce1dbfa0ef9
+MD5sum: 3f67e273af7e93d51b2361ab679e7d51
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

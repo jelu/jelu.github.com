@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.io/zonemaster/debian
+Label: zonemaster jessie apt repository
+Architecture: i386
+Description: Debian package repository for Zonemaster

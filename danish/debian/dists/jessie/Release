@@ -1,0 +1,37 @@
+Origin: https://jelu.github.com/danish/debian
+Label: danish jessie apt repository
+Codename: jessie
+Date: Thu, 19 Feb 2015 09:21:54 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for danish
+MD5Sum:
+ 23dc74b1a18fb6e9a055ed19cd812e78 1133 main/binary-i386/Packages
+ 1d9f43598ba7e2a5b643bcf7030f2683 670 main/binary-i386/Packages.gz
+ 93c890921248321a47ff5caaeef0ad88 167 main/binary-i386/Release
+ 9e8bc1f2039bae515c61a89476c73820 1137 main/binary-amd64/Packages
+ 4dc9c785a37ae0a56cc3a4584efc54ee 671 main/binary-amd64/Packages.gz
+ 40134f46735a2228e55898abdeff5b87 168 main/binary-amd64/Release
+ fef4b154f9f8b7b72e7ee82c4febb55f 994 main/source/Sources
+ 575ddf433515ecb62bc1fb30151d6db0 549 main/source/Sources.gz
+ 61ad2edc56ba3ae4b32397b5c3750b95 169 main/source/Release
+SHA1:
+ d245bfb5ab8d2f5f3f7c4cb0bcb1c511d085ecb6 1133 main/binary-i386/Packages
+ dd6ac090b61c20774a0e2338711b50d8cf107e14 670 main/binary-i386/Packages.gz
+ c5cff764210403a43f04146f95dfc3837cf03656 167 main/binary-i386/Release
+ 0a08d15416c98e32140f282b88caa80adea4898a 1137 main/binary-amd64/Packages
+ f856e6d7bc828b658237345ea6c049c72c8b9497 671 main/binary-amd64/Packages.gz
+ efd33bd0c9c441e3cbf81ef7095309cac5b28b48 168 main/binary-amd64/Release
+ a8799161cdaf4eaf1f6082c44c973c5bffe5a627 994 main/source/Sources
+ bb7f9d62a93c8afb320ec969678eeef2e5f581d2 549 main/source/Sources.gz
+ f422271230fd8469bc7184470198d657e2a94d0b 169 main/source/Release
+SHA256:
+ 3af88494a9d5c10a53d1afe778ac24da0b43740d0bc0fbbea5ddca5fc06232fe 1133 main/binary-i386/Packages
+ 85fa75c760f41ac1f414cf7ab9f85dee6f7537caf896ca23985e6ee32214759f 670 main/binary-i386/Packages.gz
+ 7aafa8c3cdf7fa8b16c493d9c684d40afb3e00a20add747b24062c3b9333cf00 167 main/binary-i386/Release
+ 837ba6aae76b59be7015f3189dfd4edf488d31ba5ddd2e23e738697711354921 1137 main/binary-amd64/Packages
+ 9e17b5ca774000510a138ceda2abb790a5f3b28a5e12b136626e116ec296f85a 671 main/binary-amd64/Packages.gz
+ 6053fa80d999bce9136cb47239959e42f40ae88e5409c988dce1f8f488492b6c 168 main/binary-amd64/Release
+ 64cd35b5d238617217763230b4a7f11995a31f78a749e3ba399e42abccad8017 994 main/source/Sources
+ 04b06ff7ab2c8c1f03e0ef02539eda06b5472d8e5582d2cba407b46335886907 549 main/source/Sources.gz
+ fc1566663862e431b073a1c94cb7e21a67cade819b29974a39270aa6a3704f2d 169 main/source/Release

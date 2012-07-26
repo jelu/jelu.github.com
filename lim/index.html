@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link href="../cover.css" rel="stylesheet">
+    <title>jelu@github :: repository lim</title>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">
+                <a href="https://github.com/jelu">
+                <img alt="Jerry Lundström" class="avatar" data-user="1446909" src="https://avatars0.githubusercontent.com/u/1446909?v=3&amp;s=40" height="40" width="40">
+                jelu@github
+                </a>
+              </h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="icon iconfirst"><a href="https://twitter.com/lundstromjerry"><img src="https://g.twimg.com/Twitter_logo_blue.png" height="24" width="30" /></a></li>
+                  <li class="icon"><a href="https://github.com/jelu"><img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" height="28" width="34" /></a></li>
+                  <li class="icon"><a href="https://launchpad.net/~jelu"><img src="https://launchpadlibrarian.net/50468600/launchpad-logo" height="30" width="30" /></a></li>
+                  <li class="icon"><a href="http://search.cpan.org/~jelu/"><img src="http://padre.perlide.org/static/alien/cpan-logo.png" height="30" width="30" /></a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="inner cover">
+            <small><em><a href="../"><span class="glyphicon glyphicon-backward" aria-hidden="true"></span> back to all repositories</a></em></small>
+            <h1 class="cover-heading">Repository: Lim</h1>
+            <p class="lead">
+               Lim provides a framework for calling plugins over multiple protocols such as RESTful JSON/XML, JSON-RPC, XML-RPC and SOAP.
+               The repository also contains plugins for DNS, OpenDNSSEC and SoftHSM.
+            </p>
+            <h2>Sources</h2>
+            <p>
+              The following sources are packaged in this repository.
+              <ul>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/lim">https://github.com/jelu/lim</a></strong></li>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/lim-plugin-dns">https://github.com/jelu/lim-plugin-dns</a></strong></li>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/lim-plugin-opendnssec">https://github.com/jelu/lim-plugin-opendnssec</a></strong></li>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/lim-plugin-softhsm">https://github.com/jelu/lim-plugin-softhsm</a></strong></li>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/log-log4perl-appender-lim-cli">https://github.com/jelu/log-log4perl-appender-lim-cli</a></strong></li>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/xmlrpc-transport-http-server">https://github.com/jelu/xmlrpc-transport-http-server</a></strong></li>
+                <li><strong><a class="text-primary" href="https://github.com/jelu/anyevent-readline-gnu">https://github.com/jelu/anyevent-readline-gnu</a></strong></li>
+              </ul>
+            </p>
+            <h2>Debian Packages</h2>
+            <p>
+              Supported Debian distributions are wheezy, jessie and sid.
+            </p>
+            <h3>Wheezy</h3>
+            <div class="pre">
+              echo "deb http://jelu.github.io/lim/debian wheezy main" | sudo tee /etc/apt/sources.list.d/jelu.github.io.lim.list<br/>
+              wget -O - https://jelu.github.io/package.gpg | sudo apt-key add -<br/>
+              sudo apt-get update<br/>
+              sudo apt-get install lim-agentd ...
+            </div>
+            <h3>Jessie</h3>
+            <div class="pre">
+              echo "deb http://jelu.github.io/lim/debian jessie main" | sudo tee /etc/apt/sources.list.d/jelu.github.io.lim.list<br/>
+              wget -O - https://jelu.github.io/package.gpg | sudo apt-key add -<br/>
+              sudo apt-get update<br/>
+              sudo apt-get install lim-agentd ...
+            </div>
+            <h3>Sid</h3>
+            <div class="pre">
+              echo "deb http://jelu.github.io/lim/debian sid main" | sudo tee /etc/apt/sources.list.d/jelu.github.io.lim.list<br/>
+              wget -O - https://jelu.github.io/package.gpg | sudo apt-key add -<br/>
+              sudo apt-get update<br/>
+              sudo apt-get install lim-agentd ...
+            </div>
+            <h2>Ubuntu Packages</h2>
+            <p>
+              Packages for Ubuntu are provided by LaunchPad, add this PPA to your system to access the packages.
+            </p>
+            <p>
+              Supported Ubuntu distributions are lucid, precise, trusty, utopic and vivid.
+            </p>
+            <div class="pre">
+              sudo add-apt-repository ppa:jelu/lim<br/>
+              sudo apt-get update<br/>
+              sudo apt-get install lim-agentd ...
+            </div>
+            <h2>CentOS Packages</h2>
+            <p>
+              Coming soon...
+            </p>
+          </div>
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Based on cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script>
+    if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  	  var msViewportStyle = document.createElement('style')
+  	  msViewportStyle.appendChild(
+  	    document.createTextNode(
+  	      '@-ms-viewport{width:auto!important}'
+  	    )
+  	  )
+  	  document.querySelector('head').appendChild(msViewportStyle)
+  	}
+    </script>
+  </body>
+</html>

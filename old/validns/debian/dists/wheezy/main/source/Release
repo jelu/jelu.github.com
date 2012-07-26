@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.com/validns/debian
+Label: validns wheezy apt repository
+Architecture: source
+Description: Debian package repository for validns

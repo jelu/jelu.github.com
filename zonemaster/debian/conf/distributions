@@ -1,0 +1,26 @@
+Origin: http://jelu.github.io/zonemaster/debian
+Label: zonemaster jessie apt repository
+Codename: jessie
+Architectures: i386 amd64 source
+Components: main
+Description: Debian package repository for Zonemaster
+SignWith: 4F23A0260F19DAC5
+Pull: jessie
+
+Origin: http://jelu.github.io/zonemaster/debian
+Label: zonemaster stretch apt repository
+Codename: stretch
+Architectures: i386 amd64 source
+Components: main
+Description: Debian package repository for Zonemaster
+SignWith: 4F23A0260F19DAC5
+Pull: stretch
+
+Origin: http://jelu.github.io/zonemaster/debian
+Label: zonemaster sid apt repository
+Codename: sid
+Architectures: i386 amd64 source
+Components: main
+Description: Debian package repository for Zonemaster
+SignWith: 4F23A0260F19DAC5
+Pull: sid

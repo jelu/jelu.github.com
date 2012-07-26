@@ -1,0 +1,36 @@
+Package: validns
+Version: 0.8git.dd75b6c-2~wheezy+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 266
+Depends: libc6 (>= 2.3.6-6~), libjudydebian1, libssl1.0.0 (>= 1.0.0)
+Homepage: http://www.validns.net/
+Priority: extra
+Section: utils
+Filename: pool/main/v/validns/validns_0.8git.dd75b6c-2~wheezy+1_i386.deb
+Size: 50530
+SHA256: 0d8fe05388715144e07fc74b92c1cb01c860c031f890057755d85707bec01919
+SHA1: 31424842c7d8fe21319e0b67eda6d51e53d4832d
+MD5sum: 2bad138c747511f367ef41db5efa3db3
+Description: a high performance DNS/DNSSEC zone validator
+ Validns is a standalone command line RFC 1034/1035 zone file validation tool
+ that, in addition to basic syntactic and semantic zone checks, includes DNSSEC
+ signature verification and NSEC/NSEC3 chain validation, as well a number of
+ optional policy checks on the zone.
+ .
+ The utility was developed with the goal of it being the last verification
+ step in the chain of production and publication of one or more zones
+ containing up to many thousands (or millions) of signed records, making the
+ speed of operation a primary focus, and reflect on validns’ design.
+ .
+ The utility is currently being used by several major DNS operators.
+ .
+ Currently, validns offers the following features:
+    * parse RFC 1035-compliant zone files (so called “BIND” file format)
+    * supports most of the standard record types
+    * informs the user precisely where and what the errors are
+    * verifies RRSIG signatures
+    * NSEC/NSEC3 chain validation
+    * supports signature validation in the future or in the past
+    * built-in policy checks
+

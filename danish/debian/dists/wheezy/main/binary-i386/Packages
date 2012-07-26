@@ -1,0 +1,26 @@
+Package: danish
+Version: 0.1.0gitbed7369-2~wheezy+1
+Architecture: i386
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Installed-Size: 66
+Depends: libc6 (>= 2.1), libssl1.0.0 (>= 1.0.0)
+Homepage: https://github.com/jelu/danish
+Priority: extra
+Section: utils
+Filename: pool/main/d/danish/danish_0.1.0gitbed7369-2~wheezy+1_i386.deb
+Size: 15914
+SHA256: f89ac7093ba0509aeb2fae93b68bc7a24600f68c0c8490522f113aa53a34f5ae
+SHA1: 535d587731e73dddee7ac3aa36a276244d3b785f
+MD5sum: d84105cc4bb18585caf696266c2cdb03
+Description: DANE TLSA record type tool
+ The danish tool helps users by generating TLSA records and by checking certain
+ properties of certificates. The tool was specifically designed to be integrated
+ into an automated DNS zone generation chain. Apart from being able to generate
+ TLSA records from X.509 certificates danish is also able to:
+ .
+ - Check if a certificate has expired
+ - Check if the hostname for which a TLSA record is created matches with the
+   certificate
+ - Check if a certificate matches with the certificate signing request (CSR)
+   used to to request the certificate from a certificate authority
+
