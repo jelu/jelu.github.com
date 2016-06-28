@@ -1,5 +1,0 @@
-Component: main
-Origin: http://jelu.github.com/lim/debian
-Label: Lim sid apt repository
-Architecture: i386
-Description: Debian package repository for Lim
