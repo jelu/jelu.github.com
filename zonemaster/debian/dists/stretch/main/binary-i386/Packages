@@ -52,40 +52,40 @@ Auto-Built-Package: debug-symbols
 Build-Ids: 44c9affdfef324e0df8bce821561bc12b571f62a
 
 Package: libnet-ldns-perl
-Version: 0.75-9~stretch+1
+Version: 0.75-10~stretch+1
 Architecture: i386
 Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
 Installed-Size: 832
-Depends: perl (>= 5.22.1-3), perlapi-5.22.1, libssl1.0.2 | libssl1.0.0
+Depends: perl (>= 5.22.2-1), perlapi-5.22.2, libssl1.0.2 | libssl1.0.0
 Homepage: https://github.com/jelu/net-ldns
 Priority: optional
 Section: perl
-Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl_0.75-9~stretch+1_i386.deb
-Size: 229464
-SHA256: 6b2923cb34d04a2af59bb0d354bd699ee5c32b305bc40cb52197bda729d16a24
-SHA1: b55a620c15ef008ca2b1151d562b77f6e094ffbc
-MD5sum: 0641666844632facd8bf8d819631fb44
+Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl_0.75-10~stretch+1_i386.deb
+Size: 230166
+SHA256: ebd48a9368547ac56f6f8d0afb1cdfc9f8574fa3ba6b067e7882c7b438d097a5
+SHA1: ea85afb982be43c58dca211b80ce8d712634ea5a
+MD5sum: 588a095197a8e73a05798717a1b38b61
 Description: DNS-talking module based on the ldns C library
  DNS-talking module based on the ldns C library
 
 Package: libnet-ldns-perl-dbgsym
 Source: libnet-ldns-perl
-Version: 0.75-9~stretch+1
+Version: 0.75-10~stretch+1
 Architecture: i386
 Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
 Installed-Size: 441
-Depends: libnet-ldns-perl (= 0.75-9~stretch+1)
+Depends: libnet-ldns-perl (= 0.75-10~stretch+1)
 Homepage: https://github.com/jelu/net-ldns
 Priority: extra
 Section: debug
-Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl-dbgsym_0.75-9~stretch+1_i386.deb
-Size: 382284
-SHA256: 2ae380d9958add8c3500e59719badfbf5accdcabf68bc5bce40ba886dd609108
-SHA1: 8b22bf85f2658625c302d5a620122932882c4af5
-MD5sum: ff6ab4e6e9ed1505084509a884bf4ac6
+Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl-dbgsym_0.75-10~stretch+1_i386.deb
+Size: 382442
+SHA256: 8e1885d92bab6c2ab4dd832c9988b9d719a423696f5a6a5b336e12ef26226d2f
+SHA1: b3d5bd24415b753bc074c2729ccf35ce96c92481
+MD5sum: e2fc605e5bf18fbbf6c00cd22a2d4ccf
 Description: Debug symbols for libnet-ldns-perl
 Auto-Built-Package: debug-symbols
-Build-Ids: 7ec4a696b2cabfdf58f3c3e5bfa6252308fcb8fe
+Build-Ids: 02f7b047a84f67dedc40e912bec13fd1bbef01d9
 
 Package: libzonemaster-cli-perl
 Source: zonemaster-cli
@@ -106,20 +106,20 @@ Description: run Zonemaster tests from the command line
  run Zonemaster tests from the command line
 
 Package: libzonemaster-perl
-Version: 1.0.11-6~stretch+1
+Version: 1.0.14-5~stretch+1
 Architecture: all
 Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
-Installed-Size: 629
-Depends: perl, libnet-ldns-perl, libio-socket-inet6-perl, libmoose-perl, libmodule-find-perl, libjson-xs-perl, libfile-sharedir-perl, libfile-slurp-perl, libnet-ip-xs-perl, liblist-moreutils-perl, libmail-rfc822-address-perl, libhash-merge-perl, libreadonly-perl, libintl-perl, libjson-perl
-Recommends: libreadonly-xs-perl
+Installed-Size: 638
+Depends: perl, libnet-ldns-perl, libio-socket-inet6-perl, libmoose-perl, libmodule-find-perl, libjson-perl, libfile-sharedir-perl, libfile-slurp-perl, libnet-ip-xs-perl, liblist-moreutils-perl, libmail-rfc822-address-perl, libhash-merge-perl, libreadonly-perl, libintl-perl
+Recommends: libreadonly-xs-perl, libjson-xs-perl
 Homepage: https://github.com/jelu/zonemaster-engine
 Priority: optional
 Section: perl
-Filename: pool/main/libz/libzonemaster-perl/libzonemaster-perl_1.0.11-6~stretch+1_all.deb
-Size: 131482
-SHA256: 1470040f2fcf72a35d04f85dee50d77d40d33d58b681c0f29f5cfd65cb0516f9
-SHA1: 0949fd90f61a0ba9cce8184e01c75aeff71a62ac
-MD5sum: 31d0c0d9defee8455e4764f662c8651f
+Filename: pool/main/libz/libzonemaster-perl/libzonemaster-perl_1.0.14-5~stretch+1_all.deb
+Size: 133266
+SHA256: 1a5e5c58ea7fa12bf74e66c0103b544c8cb847429c98905ddad30bfbae8a4c83
+SHA1: 80d8578e9a44f9b782de833f5fbe604075af40a3
+MD5sum: 7d27015af669c637f1d0c608c4d564bc
 Description: A tool to check the quality of a DNS zone
  A tool to check the quality of a DNS zone
 

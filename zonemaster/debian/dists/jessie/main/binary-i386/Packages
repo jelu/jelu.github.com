@@ -33,19 +33,19 @@ Description: IPv4/IPv6 address library
  IPv4/IPv6 address library
 
 Package: libnet-ldns-perl
-Version: 0.75-9~jessie+1
+Version: 0.75-10~jessie+1
 Architecture: i386
 Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
 Installed-Size: 847
-Depends: perl (>= 5.20.2-3+deb8u1), perlapi-5.20.2, libssl1.0.2 | libssl1.0.0
+Depends: perl (>= 5.20.2-3+deb8u5), perlapi-5.20.2, libssl1.0.2 | libssl1.0.0
 Homepage: https://github.com/jelu/net-ldns
 Priority: optional
 Section: perl
-Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl_0.75-9~jessie+1_i386.deb
-Size: 273834
-SHA256: 7beb7ba5a069c1c8fccb8e55d95339c8228c295a166ef53b888ab8dfb865c7e6
-SHA1: 6678417f637b5b16e389236a60c540e39c23c452
-MD5sum: 82f52f04887c7e0d3de8a0135a847aff
+Filename: pool/main/libn/libnet-ldns-perl/libnet-ldns-perl_0.75-10~jessie+1_i386.deb
+Size: 270926
+SHA256: ccd7fe0e35b87c626ee013a1709193143b7ae7de46a09b02ccd7adb4b6676f53
+SHA1: a1279765b82d5b0d3c32dc9eb54d30b36c9ee255
+MD5sum: 14120560b4aa1861bb70e618f1594362
 Description: DNS-talking module based on the ldns C library
  DNS-talking module based on the ldns C library
 
@@ -68,20 +68,20 @@ Description: run Zonemaster tests from the command line
  run Zonemaster tests from the command line
 
 Package: libzonemaster-perl
-Version: 1.0.11-6~jessie+1
+Version: 1.0.14-5~jessie+1
 Architecture: all
 Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
-Installed-Size: 664
-Depends: perl, libnet-ldns-perl, libio-socket-inet6-perl, libmoose-perl, libmodule-find-perl, libjson-xs-perl, libfile-sharedir-perl, libfile-slurp-perl, libnet-ip-xs-perl, liblist-moreutils-perl, libmail-rfc822-address-perl, libhash-merge-perl, libreadonly-perl, libintl-perl, libjson-perl
-Recommends: libreadonly-xs-perl
+Installed-Size: 673
+Depends: perl, libnet-ldns-perl, libio-socket-inet6-perl, libmoose-perl, libmodule-find-perl, libjson-perl, libfile-sharedir-perl, libfile-slurp-perl, libnet-ip-xs-perl, liblist-moreutils-perl, libmail-rfc822-address-perl, libhash-merge-perl, libreadonly-perl, libintl-perl
+Recommends: libreadonly-xs-perl, libjson-xs-perl
 Homepage: https://github.com/jelu/zonemaster-engine
 Priority: optional
 Section: perl
-Filename: pool/main/libz/libzonemaster-perl/libzonemaster-perl_1.0.11-6~jessie+1_all.deb
-Size: 151240
-SHA256: ca41222cc4b19d39ba5694bbd7b680f1b24e1fc86761eb965ca69786c7ea7ca5
-SHA1: 972a4074df33c6dba4762242de24eaecd191a3fc
-MD5sum: 0d806a50a967495b1f5b0bae486665e3
+Filename: pool/main/libz/libzonemaster-perl/libzonemaster-perl_1.0.14-5~jessie+1_all.deb
+Size: 152326
+SHA256: a808379eff8cde11907b00de85a6c2450cf94583bcf46d9d52947a79bb77863e
+SHA1: d3192bba5478983c3eb70687c272c94cbc3ebbf1
+MD5sum: b6e2f0000c670f8170b8ea56fe5db1c2
 Description: A tool to check the quality of a DNS zone
  A tool to check the quality of a DNS zone
 

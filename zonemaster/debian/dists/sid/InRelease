@@ -4,56 +4,56 @@ Hash: SHA512
 Origin: http://jelu.github.io/zonemaster/debian
 Label: zonemaster sid apt repository
 Codename: sid
-Date: Tue, 12 Jan 2016 14:52:13 UTC
+Date: Wed, 29 Jun 2016 05:45:58 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian package repository for Zonemaster
 MD5Sum:
- 253f436d33471d7bbd7b2dc32d9286f3 5612 main/binary-i386/Packages
- 36d017778789a822abfd5a48c0ca28ad 1840 main/binary-i386/Packages.gz
+ 9b4e4c33df100073a09bd323e073a14f 5617 main/binary-i386/Packages
+ 3453287f45295e30d9e51fc7b054996b 1850 main/binary-i386/Packages.gz
  ac4ac806276e9fb2440613591c402645 174 main/binary-i386/Release
- cf893e417f2f49719b9eda36a80dc3b9 5620 main/binary-amd64/Packages
- 1f7afadaa9eba2ee5804e4b9f120f246 1842 main/binary-amd64/Packages.gz
+ f4574768aa21d29afb0545bc1d158dc9 5625 main/binary-amd64/Packages
+ 917e525c68e631d7c06a7f534e5f0fb5 1848 main/binary-amd64/Packages.gz
  50e7e701401e85ead8903bbe10899428 175 main/binary-amd64/Release
- dd063a1c475c09631ad4b2d856c3b10c 5810 main/source/Sources
- 2662b605b52c6c92cb2214a1eba2c3de 1827 main/source/Sources.gz
+ 17a950ce5bb9470f9ad7880dc3210ca1 5826 main/source/Sources
+ a1fcdc452d73d49422039e00450253dc 1833 main/source/Sources.gz
  687bef00a2bce093892de5003ab886b3 176 main/source/Release
 SHA1:
- 9fd4effe25e47a7ddd0b487f7f2e09e6e06a5829 5612 main/binary-i386/Packages
- 6d92e9b717223cfe7c5b5b6b911153f109041ab7 1840 main/binary-i386/Packages.gz
+ 626f8535d1756b7267ffc7c4a67f850e565f63b8 5617 main/binary-i386/Packages
+ 75d7b7357fe0690c0a7408285aec8120e6438b62 1850 main/binary-i386/Packages.gz
  670b80c2d0e6c573d5c17f36580aad346f378e1b 174 main/binary-i386/Release
- 10248ff4b78f6f0b65ad2399f583f699825674f2 5620 main/binary-amd64/Packages
- 080ab63f4ba09c8d31480cc6f2f026267dee829b 1842 main/binary-amd64/Packages.gz
+ 407e6a79752564200b84a9de32c3dbdc7dcd7936 5625 main/binary-amd64/Packages
+ 7f4771b015f3182d4208c743ccf56888f072a012 1848 main/binary-amd64/Packages.gz
  6ae8a2c83ac6e5dcf0ab0d3809fdc2fbd34dad22 175 main/binary-amd64/Release
- aa2632173b57d7162f6c1da8fd35b93f7f8bc54b 5810 main/source/Sources
- 99c02a8e6418718ca7337b041c619e92a00bacb2 1827 main/source/Sources.gz
+ 720852919c07da9b3c33f7c07276635085a0059e 5826 main/source/Sources
+ 2bdfc586e087897ef5b76ced26ee76dc3bf00499 1833 main/source/Sources.gz
  99a3589b4f7c02e0ee3f87e05eb4f115c8211da3 176 main/source/Release
 SHA256:
- ec7eed2c5fe62d729b7e95812674397c2e40e7354b425c9614d402a989965296 5612 main/binary-i386/Packages
- 4ee1e8ef07b2904df8bf278cdb6f3d59f5a8b54aaaf49bd529e7d50218c00dc2 1840 main/binary-i386/Packages.gz
+ 222f2a6b1f031b836dbf16506b3e9642036fa34e7b79a8740130b9dd67749993 5617 main/binary-i386/Packages
+ 9752b7bcf83c8b6e0a2c00cc93e5829b9adb9f56fe3f0d0197eb673173369c87 1850 main/binary-i386/Packages.gz
  a203e05447ded119bab1722910344b898e20bd045c3d1873786e2f210d38f2a7 174 main/binary-i386/Release
- 3e913bb0bc6ee459cdf23bf7f23faff9d4f550e7f2fdd0d6e8ff829f786d7e84 5620 main/binary-amd64/Packages
- 419ff3ad5cf85166445116b01f85425f452d9cacd4c494ab6bf9290a2981c276 1842 main/binary-amd64/Packages.gz
+ 7691bf6edf89a4f5c7a584d8a5182ae7f4b6c1fff2ae6a465dd34e8f01daaa37 5625 main/binary-amd64/Packages
+ f60cbe7ae04c6f9ed188e2d162dd94bbbe93a153a19fb3c0ae653279b0bf6322 1848 main/binary-amd64/Packages.gz
  1bb02a9e9d2657b091907ca7fc5c99099f076dc8b84d20004da73e2f7cf60204 175 main/binary-amd64/Release
- 0c4288828049244700875251781a08b6e02fd6e49552adf60a13ee2231df8a06 5810 main/source/Sources
- 18852d22cd3cafcc77db243ebf4710a168f45826e5f1162888b5e205f94af431 1827 main/source/Sources.gz
+ 2e96086b9fcd8c79b04484cd168f442c41adc0ec21521487cacf772e49f41a44 5826 main/source/Sources
+ 8680f4ca3ad5e00584ae0b545c5c87bce547861823e501b49bb4508ab574b97f 1833 main/source/Sources.gz
  e1bd14ee1e20e977fce63fb3c80975dc0dad371ee69b0fb79ed6b1032da5defc 176 main/source/Release
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1
+Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQJ8BAEBCgBmBQJWlRMdXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+iQJ8BAEBCgBmBQJXc2CWXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
 ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
-RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFOu4P/1IZDJug03wVSYWnRUzhTpX5
-pREFaE8rpgTwCI7foYs9V2P5RUfeFD9yjbYn2McYVq9FvEb5wf2l2yKc4yfc6q4n
-ClOQqbh1BXNBsTLvXbsKnvJnc4yqjJwH4gqKAD6TrrznzIwSmxRgxQpS5wE288py
-dKQQAwOz2DnT6qdyI6X+3NkHvryxxJDPhGAVvr/ejR62CgxcCaWmsWFoCxadN+rd
-QBRIsaizEDQMblqZ3DIE6UwwvKLR+IpVYfxNWfUAhRoHX+L2v2ovjWaxzL44id5y
-z4Uz4V5p+ND/xr0C+p+lmgqH687P5PAzB4a9TYREtQCqcetCsCi2CMjHHh08BbDa
-2Awcfe53T4SHdIdAH6JQvU4W8/M6cdgm79tFhz/BAUqF6XCHVvXZZv6cTSz0M4yd
-q4UJNqczCF1ALGKaG4sbo/gq1RGOyjnWo5Juyb1Oe2ybvIugKNSXXle/WuU6VDzg
-Z1PHFqGqNwWue4NnJlMw0Ot6JgJ2zKaOMD6ALjnH8rLyJv6k5hNAMqaWVR+fpZT6
-J0T5b7QSikufJDqhKOsr0JGxby9WRHIPVcAobjbtlB2YLUX8xzOV2NxVVZY/K+9g
-4zkc+MB4WTXVJqjVwCHBGb8egzgNKgb546K3Wz4JUR7MiNyQtePBPDqtJa3ZQk9A
-0UHR51bRXgNIE7v6ADWr
-=ERJu
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFFWMP/3e306TnvIlMw6yy20s6qmeb
+hyVasmF+2bH4D/5oR70QSWZFfkCl9Spc/ZMDKwH9DDJybjRf6/9Wnu5kNucBm8eV
+LNO3n0AYiH/H4Jk76Pvp5bgwpfSnwNYB6v2YbUulcQU/LaT7ifQVxICwTgO+46CS
+/uXYE2JF5u5pXFUyKvzc+VzZrLbfHKGqP0fFuZHb6b0wqIXIxO/7VsFsVUrWn+U+
+22bJXBfcWPcuxEklz1/kiVwQIvsg5MTTILrGwna8zHYaVCTpUpjhWdKEFdXHgind
+9o4h7lrdBVnpqbBQV++EdcnKqLGmF5sFfI4fL5Y0b1bcLJ55XLHGfmr/YBPQFWMI
+w/dJ/WwJ9po2VPZN9lgy8NecTexJ7eTXNEsb1Z7rIP7GvmsZjVl5Y3Q41QoxXavI
+rK9kKA6zJBdnmIiIjUq49q94W5j4tUAf6chJ+XTrcdMNzGBq+Vua5FGPd45niwaR
+WmljnCK2OMAaXoy68B4xtfLjSb5K2c4nRu2J2ddaYCAQVr+cNeBPjCkF0kWcD1d/
+tutIn5LnaHO8vIDcsoVA6GG3d24GFAU/0QZtdJ+Ln8Xpdw89vs2DHPXfIgWu/8dN
+V5LjR7njT+hm1ZIaF8zk/aIWm1cBIZebqp393dG70eTepaBKHMap2ertQI6ruort
+3B2HD0OQfeFlTrkCTAEi
+=hpBY
 -----END PGP SIGNATURE-----
