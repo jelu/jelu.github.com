@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.io/zonalizer/debian
+Label: zonalizer sid apt repository
+Architecture: source
+Description: Debian package repository for Zonalizer

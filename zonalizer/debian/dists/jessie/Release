@@ -1,0 +1,37 @@
+Origin: http://jelu.github.io/zonalizer/debian
+Label: zonalizer jessie apt repository
+Codename: jessie
+Date: Wed, 29 Jun 2016 10:11:39 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Zonalizer
+MD5Sum:
+ 29c0e5cef5d36e9e16c1eb6a18519a3f 24396 main/binary-i386/Packages
+ a6667d07a9d74844b312b3064751a878 6350 main/binary-i386/Packages.gz
+ 7431853c20201de565a094f15eabbfee 174 main/binary-i386/Release
+ 064cc86ff0bef0177336e0766637139c 24400 main/binary-amd64/Packages
+ 6857de4df97912384321b7770a7d857d 6356 main/binary-amd64/Packages.gz
+ 9a06e9e3cca2736cbda6473997367ebe 175 main/binary-amd64/Release
+ e2a8a200435df80b8b5fe68003a1d7eb 15369 main/source/Sources
+ e65ab0ea0217b5d6fb2469fe27c46ff5 3920 main/source/Sources.gz
+ a82f7723bf53ee4bfd981c3908af83d0 176 main/source/Release
+SHA1:
+ 417b1f3ca3e83a35e788aeef373c77815adb9db5 24396 main/binary-i386/Packages
+ 725b77fbf3da71528d3f70d782f61110f6abb15a 6350 main/binary-i386/Packages.gz
+ bf7bfa3ad9304270f5b2556ada0838ba166ee5bd 174 main/binary-i386/Release
+ af91479b857df438ed2e702087d87e473883c570 24400 main/binary-amd64/Packages
+ ea29aa93bc4876783c70d19ff821bdd67528f456 6356 main/binary-amd64/Packages.gz
+ 6d6e790554321621a956bd547e6cf48ebe83b684 175 main/binary-amd64/Release
+ 85ed114caa8157a5df8bcf131fc6bc4428c0f0c8 15369 main/source/Sources
+ e9f407ae2439f3919bebbd93dabb7cf3adffe277 3920 main/source/Sources.gz
+ dd796235fdb9e83e0d4ad8b91baefe0864c4bbbb 176 main/source/Release
+SHA256:
+ f2367a547abbfaf4f1562af5f06df3b23e8fc276c254678780832d978e434483 24396 main/binary-i386/Packages
+ 82c721ecf1898f5057f1d7cc9dc25a07624d1d863e9b7549412a16abfb1c25ad 6350 main/binary-i386/Packages.gz
+ 9f6432d779ebd20345b773446b17a2c2317aa745a8aa2791a92441708faf81cf 174 main/binary-i386/Release
+ dd8fb8053f7eed990ec1eb602edd134f83f7a7d789de42c3e87bffb10a023d3b 24400 main/binary-amd64/Packages
+ e7617ea351e7ec4759afe1c3b8544cfcba20f4861e0547d51ee7eb462ee4131a 6356 main/binary-amd64/Packages.gz
+ bd8194252dc15fa0ceb4a841a7c332e24b95954aa0ee4b424994f50ac3c43096 175 main/binary-amd64/Release
+ a4ae07aead2068233630a2972fc855517d27055ea0fff1520691bfb1f9ba7a38 15369 main/source/Sources
+ 8992101b04e1c27a13245e625b1a98c3737957e92010c1ef7d8dd29691ef7490 3920 main/source/Sources.gz
+ 83276c9c81b7ec7d28ef6c8902bc7c31a5d5c58d88ed91ba0174285d97e67e44 176 main/source/Release

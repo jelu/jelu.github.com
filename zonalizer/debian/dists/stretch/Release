@@ -1,0 +1,37 @@
+Origin: http://jelu.github.io/zonalizer/debian
+Label: zonalizer stretch apt repository
+Codename: stretch
+Date: Wed, 29 Jun 2016 10:11:41 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Zonalizer
+MD5Sum:
+ 82abf7e19023df6947b2b3fd6441094c 25880 main/binary-i386/Packages
+ 729768d0797a35947889df365b6f1679 6723 main/binary-i386/Packages.gz
+ 7faad154c6f1d4baeb3cf67def2951fc 175 main/binary-i386/Release
+ 51a771373ed09287a106de243fdf1ef5 25888 main/binary-amd64/Packages
+ daef1ddba7ebcf22ba04b5bac6aa4d13 6725 main/binary-amd64/Packages.gz
+ 0dbd9e387b904c0a1de66d294423b09e 176 main/binary-amd64/Release
+ 3897a398ce1a4db74ee8573b6a5741fb 15446 main/source/Sources
+ 413abe8fe3236f163d54d899ba101f4c 3912 main/source/Sources.gz
+ db252fd4bd943534e36dcc88a2aef445 177 main/source/Release
+SHA1:
+ 1b2d19a7b66782ef5f0df75ac052bfab047fe24e 25880 main/binary-i386/Packages
+ c5adcd9e86b857da9351a10d133b83c2caaaa9fb 6723 main/binary-i386/Packages.gz
+ 2537d3a4ca4b17817795c2cb53ba17dd445cdcfd 175 main/binary-i386/Release
+ 85a202e40dd46c32fb470f3392776d5f95702a50 25888 main/binary-amd64/Packages
+ 7d2e06cae5db83d802493c4b92c937b5f00d9d4e 6725 main/binary-amd64/Packages.gz
+ 1dc657ba92b9225353ceb5927af262ce9d50dad3 176 main/binary-amd64/Release
+ 976f9e127c8d3b8f3b34218a70541d1cf2fbdefb 15446 main/source/Sources
+ 755f5d3f48ee66a5d414783398acd75ed4d6ffd3 3912 main/source/Sources.gz
+ 2f689e6b91cc7a0985604e88b7f80b368af016c4 177 main/source/Release
+SHA256:
+ 7dbe74c8c1390b733aab3074cc1086f6f3d4b06818faafacfa2e44a50ccae4ec 25880 main/binary-i386/Packages
+ 42db781ccf022dced9581e4ea121a356b5990303aa308abe5ee76634e82c246b 6723 main/binary-i386/Packages.gz
+ 9e3d7cf1ae7202b541b26dd94b18f4a6d88a7b322bdb594c67105a59d6b66ffd 175 main/binary-i386/Release
+ 3b4f68567ff62fd656f67edfab00289345a90d4abd884cbf969667cd6eda9c76 25888 main/binary-amd64/Packages
+ 8dd1821af172f05526b9ee01a6cd6990dae3909167f05d30fdb7e787f9678d35 6725 main/binary-amd64/Packages.gz
+ 3114db6091fa367051a70fbbeadc8f098aa1f252a60b27be668a47caafc3434e 176 main/binary-amd64/Release
+ a0dd930b2e334a12ca1a58f98544adde4f74e741574645812467fb0ec2d38a70 15446 main/source/Sources
+ 14766af7cb99f53976784ba647f23c1c9f7851447479181ac1039c65409d187c 3912 main/source/Sources.gz
+ ceb85bb4621c8c4f236c14ba99a2898c8ac6b2b41a10dbbfd5b4ed2a1976473f 177 main/source/Release

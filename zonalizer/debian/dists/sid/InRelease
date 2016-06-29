@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: http://jelu.github.io/zonalizer/debian
+Label: zonalizer sid apt repository
+Codename: sid
+Date: Wed, 29 Jun 2016 10:11:43 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian package repository for Zonalizer
+MD5Sum:
+ 543edd76c42a9366e33c04b339eb027b 25512 main/binary-i386/Packages
+ fa8df402344771f9fc927b5cd4b53fe1 6717 main/binary-i386/Packages.gz
+ 036a1c77d76406c41719d301c00aaaef 171 main/binary-i386/Release
+ a6d5bebce282543093a8a33e319d2aec 25520 main/binary-amd64/Packages
+ f59a9c2d618274665150e2bbcc6db2a5 6712 main/binary-amd64/Packages.gz
+ 39fa44880dbd82de74798da801228bc9 172 main/binary-amd64/Release
+ d0b995d5c8c5d610e13d5b190cab05bb 15138 main/source/Sources
+ 32cd9ad3da29a5b25d816bc8065f569d 3909 main/source/Sources.gz
+ b3e65750cc1198fabfb49481dde0eb1c 173 main/source/Release
+SHA1:
+ 5c2be2452897d2973ddc347af1d0e0a72d06d12b 25512 main/binary-i386/Packages
+ 10c79c067f72ec55136c43f2e48bc3879bab6529 6717 main/binary-i386/Packages.gz
+ 25b8793b3b1e15f5011d56eea8efe7eb20345f88 171 main/binary-i386/Release
+ 7e89de06c9229d920862b6220c69057ed9ec312f 25520 main/binary-amd64/Packages
+ 32a74ecad2970bb2dbed62f8894617a1eca18894 6712 main/binary-amd64/Packages.gz
+ 7bb0bb4bfa1d5fdb28e5f7570b23989d7b5992bf 172 main/binary-amd64/Release
+ fc5d026139db2c8920b7bf3f809f6a2a3bf8f0ef 15138 main/source/Sources
+ 9d815cbc6db36445881db29e9570dfc71152ccbf 3909 main/source/Sources.gz
+ cb57f4cf77a48d9b910092a2569f049f7b0110ae 173 main/source/Release
+SHA256:
+ 1a204476bef54bfa488473a21b50874add35ecbfd694a6af916b68ac2c51c23f 25512 main/binary-i386/Packages
+ ca688fe25984d14bc4c0edd125a165bb6fb81ccce78421157b660c3a54d64d40 6717 main/binary-i386/Packages.gz
+ 08c76e15583e099f69b459e2a769001219370545b54d593a55fe7574efcd5975 171 main/binary-i386/Release
+ b196a3b2ada491c7d3ffb9bce14a5b35302be29c1cc2a43e0ef1f2e3124ddd6a 25520 main/binary-amd64/Packages
+ c6080eb27b6517faaea14e63081e010ce9bba0aedb11feff81ded033f822040a 6712 main/binary-amd64/Packages.gz
+ 824a7ff4c3986994351287c87532d0a764ea1ec8baeb8550864dad35ae219352 172 main/binary-amd64/Release
+ 04cc6b26db9a8a2b1ca57fb69c8d77ef77b24b514a82742afc9ab6fa44709c2d 15138 main/source/Sources
+ 2ad0b08cdeb3638725e6e1617092800d32560c25ddf24c2a3408208d6501b3a8 3909 main/source/Sources.gz
+ 450b26394c86195331af6223979d67d4788505abb4b7470a710d87460dae24d5 173 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQJ8BAEBCgBmBQJXc57fXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQ2QTc2NEJDQzNDOTRBQzEzQzAyODQwRjk0
+RjIzQTAyNjBGMTlEQUM1AAoJEE8joCYPGdrFweQP/2/ot+MP/qt5nFrL9LB0jqGH
+6MebcQtuUzxkG1ZslKdRfo1MK76TJ85yvwuqnJynmVr1CjOC6ZFaRa6MtiOT+ijq
+HwsqMsxiCqfRmPbtiFbxNFx0K9HE04eYmhYEbw4xiE182g7XvswvRdNvvUNqJPly
+ZM+iiSz9sShtgSf2apSUc7wX/Vw9d3CjKRe3BYILEaQwAmTUhcocr0ElGBj5zGz8
+e5U1DAPd5ZvG1iCeOIipk69yYC/1PgArE7SJ7YYpS/Q5z8QOsJ7ROeRFN6QYgQ84
+WtP3i1XcSBqJC0oSRR4s2EulOgKMPfaKzYAp5hiXWHDhQ4KY0CAOBKl7nVm8eJyq
+zUKHPQvxLiJciOMnm7VBpNwbaG15gFoY4c3KwmJKGyDJJIIgGnHBzy2nznTPuGfk
+8RvNhqR1kSAfudZkLRaW3D63wZg76vXsfMhXXhGjupPdgBY1stEcz6zGkrZMuY/n
+SuNCqOLBSXGY2TXhwbeaXMx5jTLQuD5dhs1QbD842CRTgLJmrgyQnlUATcWs19UE
+jDOc7/hDsZu2vcq5Ceatx3rcwqKhsqh4d8LuVDdj5nOZTOePzbK3rqoht7UqYLZE
+nrbh+EXsJazv/M/gU2oWLJtRTkD2PX6Yqg3nraHDcUpWOoJ3K4xEVl7TTYOvwCq/
+QSNjem4kfJMQu8sdoZWC
+=A7gB
+-----END PGP SIGNATURE-----

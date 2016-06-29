@@ -1,0 +1,5 @@
+Component: main
+Origin: http://jelu.github.io/zonalizer/debian
+Label: zonalizer stretch apt repository
+Architecture: amd64
+Description: Debian package repository for Zonalizer
